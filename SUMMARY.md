@@ -1,0 +1,33 @@
+# Table of contents
+
+* [🔌 Conecta](README.md)
+
+## 🌐 Documentação Conecta
+
+* [📞 Atendimento](documentacao-conecta/quickstart/README.md)
+  * [Acessando pela web](documentacao-conecta/quickstart/acessando-pela-web.md)
+  * [Acessando pelo app](documentacao-conecta/quickstart/acessando-pelo-app.md)
+  * [Iniciar atendimento](documentacao-conecta/quickstart/iniciar-atendimento.md)
+  * [Assumir atendimento](documentacao-conecta/quickstart/assumir-atendimento.md)
+  * [Transferir atendimento](documentacao-conecta/quickstart/transferir-atendimento.md)
+  * [Concluir atendimento](documentacao-conecta/quickstart/concluir-atendimento.md)
+  * [Reiniciar atendimento](documentacao-conecta/quickstart/reiniciar-atendimento.md)
+  * [Dados de contato](documentacao-conecta/quickstart/dados-de-contato/README.md)
+    * [Abrir dados do contato](documentacao-conecta/quickstart/dados-de-contato/abrir-dados-do-contato.md)
+    * [Editar campos personalizados](documentacao-conecta/quickstart/dados-de-contato/editar-campos-personalizados.md)
+    * [Inserir etiquetas](documentacao-conecta/quickstart/dados-de-contato/inserir-etiquetas.md)
+    * [Enviar áudio](documentacao-conecta/quickstart/dados-de-contato/enviar-audio.md)
+  * [Tipos de mensagem](documentacao-conecta/quickstart/tipos-de-mensagem/README.md)
+    * [Enviar mensagem rápida](documentacao-conecta/quickstart/tipos-de-mensagem/enviar-mensagem-rapida.md)
+    * [Enviar modelo de mensagem](documentacao-conecta/quickstart/tipos-de-mensagem/enviar-modelo-de-mensagem.md)
+    * [Enviar documento](documentacao-conecta/quickstart/tipos-de-mensagem/enviar-documento.md)
+    * [Enviar vídeo](documentacao-conecta/quickstart/tipos-de-mensagem/enviar-video.md)
+    * [Enviar imagem](documentacao-conecta/quickstart/tipos-de-mensagem/enviar-imagem.md)
+* [🗃️ CRM](documentacao-conecta/publish-your-docs/README.md)
+  * [Contato](documentacao-conecta/publish-your-docs/contato/README.md)
+    * [Importação de contatos](documentacao-conecta/publish-your-docs/contato/importacao-de-contatos.md)
+    * [Cadastrar contato](documentacao-conecta/publish-your-docs/contato/cadastrar-contato.md)
+    * [Pesquisar contato](documentacao-conecta/publish-your-docs/contato/pesquisar-contato.md)
+    * [Bloquear ou arquivar contato](documentacao-conecta/publish-your-docs/contato/bloquear-ou-arquivar-contato.md)
+    * [Ver/Alterar dados do contato](documentacao-conecta/publish-your-docs/contato/ver-alterar-dados-do-contato.md)
+* [📅 Agenda](documentacao-conecta/publish-your-docs-1.md)

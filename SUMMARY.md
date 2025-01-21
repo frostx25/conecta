@@ -43,3 +43,7 @@
       * [Departamento](documentacao-verleih/cadastros/rh/departamento.md)
       * [Funcionários](documentacao-verleih/cadastros/rh/funcionarios.md)
       * [Vendedores](documentacao-verleih/cadastros/rh/vendedores.md)
+    * [Faturamento](documentacao-verleih/cadastros/faturamento/README.md)
+      * [Condição De Pagamento](documentacao-verleih/cadastros/faturamento/condicao-de-pagamento.md)
+      * [Forma De Pagamento](documentacao-verleih/cadastros/faturamento/forma-de-pagamento.md)
+      * [Peridiocidade](documentacao-verleih/cadastros/faturamento/peridiocidade.md)

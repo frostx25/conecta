@@ -109,6 +109,7 @@
     * [Notas Avulsas](documentacao-verleih/notas-fiscais/notas-avulsas.md)
     * [Notas De Locação](documentacao-verleih/notas-fiscais/notas-de-locacao.md)
     * [Notas de Venda](documentacao-verleih/notas-fiscais/notas-de-venda.md)
-  * [Dúvidas dos clientes](documentacao-verleih/duvidas-dos-clientes.md)
+  * [Dúvidas dos clientes](documentacao-verleih/duvidas-dos-clientes/README.md)
+    * [Dúvidas Dos Clientes](documentacao-verleih/duvidas-dos-clientes/duvidas-dos-clientes.md)
 * [🌐 DOCUMENTAÇÃO AGENDA](documentacao-agenda/README.md)
   * [Em breve!!](documentacao-agenda/em-breve.md)

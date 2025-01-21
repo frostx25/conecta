@@ -62,3 +62,7 @@
       * [Cadastro de “Unidades”](documentacao-verleih/cadastros/fiscais/cadastro-de-unidades.md)
     * [Contábeis](documentacao-verleih/cadastros/contabeis/README.md)
       * [Centro De Custo](documentacao-verleih/cadastros/contabeis/centro-de-custo.md)
+    * [Produtos e Serviços](documentacao-verleih/cadastros/produtos-e-servicos/README.md)
+      * [Código Auxiliar](documentacao-verleih/cadastros/produtos-e-servicos/codigo-auxiliar.md)
+      * [Preço De Produtos](documentacao-verleih/cadastros/produtos-e-servicos/preco-de-produtos.md)
+      * [Serviços](documentacao-verleih/cadastros/produtos-e-servicos/servicos.md)

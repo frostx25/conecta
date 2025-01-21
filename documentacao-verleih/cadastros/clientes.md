@@ -1,9 +1,6 @@
 # Clientes
 
-\
 
-
-##
 
 O item ou personagem mais importante da sua e da nossa empresa, destinatário de grande parte dos nossos: esforço, energia e dedicação.
 

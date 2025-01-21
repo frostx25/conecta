@@ -36,7 +36,7 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
     2 – Inclua no campo “Descrição” as informações desejadas;\
     3 - Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_23.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_23.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,7 +46,7 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos”
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_25.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_25.png" alt=""><figcaption></figcaption></figure>
 * Passo 2:
   1. Clicar no botão “Folha em Branco” para iniciar o processo;
   2. Escolha a classificação do equipamento “Linha”;
@@ -62,33 +62,34 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
   3. Escolha o Tipo entre: 1- Patrimônio – são os equipamentos principais do parque de locação e cedidos, quase sempre, de forma onerosa; 2 – Acessórios – para o equipamento auxiliar ao principal e que são fornecido de forma gratuita;
   4. Campo NCM – indicar o NCM correspondente ao equipamento, que é indispensável para emissões de notas de remessa;
   5. Valor de Mercado – é o valor que constará na nota de remessa e no contrato como base para indenização de sinistro;
-  6. !\[Screenshot]\(../img/sep/100/Screenshot\_27.png)\
-     \
-     **Aba Informações Faturamento**
+  6.  **Aba Informações Faturamento**
+
+      <figure><img src="../../.gitbook/assets/Screenshot_27.png" alt=""><figcaption></figcaption></figure>
   7. Campo “Locação por” – escolher o padrão a ser utilizado para estes equipamentos do tipo de contrato que fazem, que podem ser por: dia, mês, milímetro, etc.;
   8. Campo “Mínimo Faturamento” – quando quiser definir uma quantidade mínima de unidade de faturamento por período;
   9. Campo – “Serviços de Locação” é com este serviços que o sistema entende se a cobrança será com a fatura de locação ou nota fiscal de serviços, considerando o que está definido no cadastro do serviço;
   10. Campo “Periodicidade” – a definição do padrão da periodicidade aplicado para a locação do equipamento, exceto se definida periodicidade diferente para o cliente;
-  11. !\[Screenshot]\(../img/sep/100/Screenshot\_29.png)\
+  11. \
       \
       **Aba Inf. Técnicas /Localização**
+
+      <figure><img src="../../.gitbook/assets/Screenshot_29.png" alt=""><figcaption></figcaption></figure>
   12. Campo “Unidade” – unidade definida pelo estado para emissão de notas fiscais de venda ou remessa;
   13. Campo “Vida Útil” – tempo estimado pelo locador para este tipo de equipamento;
   14. Campos “Rua”, “Prateleiras e “Caixa” – para as empresas que tenham local definido de armazenamento para cada item;
-  15. !\[Screenshot]\(../img/sep/100/Screenshot\_30.png)\
+  15. \
       \
       **Aba Impostos**
+
+      <figure><img src="../../.gitbook/assets/Screenshot_30.png" alt=""><figcaption></figcaption></figure>
   16. São as situações tributárias de ICMS, IPI, PIS e COFINS para emissão das notas de remessa e retorno.
-  17. !\[Screenshot]\(../img/sep/100/Screenshot\_31.png)\
-      \
-      **Aba Características/Aplicações**
+  17. **Aba Características/Aplicações**
+
+      <figure><img src="../../.gitbook/assets/Screenshot_31.png" alt=""><figcaption></figcaption></figure>
   18. Destinada a descrever as características de uso e capacidade como auxílio a vendedor ou usuário do sistema que não tenha tanto conhecimento dos equipamentos
-  19. !\[Screenshot]\(../img/sep/100/Screenshot\_32.png)\
-      \
+  19.
 
-  20. \
-      \
-
+      <figure><img src="../../.gitbook/assets/Screenshot_32.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -98,7 +99,7 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_40.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_40.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1. Clicar no botão “Folha em Branco” para iniciar o processo;
@@ -109,11 +110,15 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 * Passo 3:
   1. **Aba Inf. Técnica/Localização**
   2. Preencha os Campos “Rua”, “Prateleira” e “Caixa” – quando tiver um local específico para o equipamento sendo cadastrado;
-  3. !\[Screenshot]\(../img/sep/100/Screenshot\_42.png) **Aba Informações do Patrimônio**
+  3.  &#x20;**Aba Informações do Patrimônio**
+
+      <figure><img src="../../.gitbook/assets/Screenshot_42.png" alt=""><figcaption></figcaption></figure>
   4. Campo “Fornecedor” escolha o Fornecedor do equipamento;
   5. Campos “Compra” informe o número da NF, Data da Compra, Valor da Compra;
   6. Campos “Características” informe a Série, Marca e Modelo do equipamento;
-  7. !\[Screenshot]\(../img/sep/100/Screenshot\_43.png)
+  7.
+
+      <figure><img src="../../.gitbook/assets/Screenshot_43.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -123,19 +128,19 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_34.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_34.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecionar o Grupo que deseja edita.\
     2 - Clique no lápis.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_35.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_35.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Corrija o que deseja.\
     2 - Clique em gravar.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_36.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_36.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -145,18 +150,22 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_88.png)
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot_88.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecionar o grupo que deseja remover o patrimônio.\
     2 - Clique na lixeira
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_89.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_89.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Clique em gravar
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_90.png)
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot_90.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -166,19 +175,19 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_37.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_37.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecione a linha que deseja editar.\
     2 - Selecione o patrimonio que deseja editar.\
     3 - Clicar no “Iapis”
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_38.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_38.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Corrija o que deseja e grave.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_39.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_39.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -188,34 +197,36 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_91.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_91.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecionar a linha que deseja remover o patrimônio.\
     2 - Clique na lixeira
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_92.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_92.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Clique em gravar.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_93.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_93.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Cadastro, Edição e Exclusão de Equipamentos Acessórios
 
+
+
 *   Passo 1:
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_103.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_103.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 – Escolha o subgrupo ou linha ao qual quer indicar os acessórios;\
     2 – Clique no botão “Menu” e escolha a opção “Abrir Cadastro de Equipamentos Acessórios” para ir para tela de movimentação;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_105.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_105.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:\
     Inclusão de Equipamentos Acessórios:
 
@@ -224,28 +235,27 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
     3 – Indique a quantidade exata para cada equipamento a ser locado e, caso esta exatidão não exista, indique o valor “0”;\
     4 – Clique no botão “Gravar”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_111.png)\
-    \
-    !\[Screenshot]\(../img/sep/100/Screenshot\_106.png)
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot_111.png" alt=""><figcaption></figcaption></figure>
 *   Passo 4:\
     Edição de Equipamentos Acessórios:
 
     1 - Clicar no botão “Lápis” para modificar a quantidade de item;\
     2 - Clique no botão “Gravar”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_107.png)\
-    \
-    !\[Screenshot]\(../img/sep/100/Screenshot\_108.png)
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot_107.png" alt=""><figcaption></figcaption></figure>
 *   Passo 5:\
     Exclusão de Equipamentos Acessórios:
 
     1 – Escolha o equipamento que deseja excluir;\
     2 – Clique no botão Remover;\
-    3 - Clique no botão “Gravar”;
+    3 - Clique no botão “Gravar”;\
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_109.png)\
-    \
-    !\[Screenshot]\(../img/sep/100/Screenshot\_110.png)
+
+    <figure><img src="../../.gitbook/assets/Screenshot_109.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -255,19 +265,19 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_44.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_44.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecione a linha que deseja editar.\
     2 - Selecione o patrimonio que deseja editar.\
     3 - Clicar no “Iapis”
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_45.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_45.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Corrija o que deseja e grave.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_46.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_46.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -277,19 +287,21 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_94.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_94.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecionar a linha que deseja remover o patrimônio.\
     2 - Selecione o patrimônio que deseja remover.\
     3 - Clique na lixeira
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_95.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_95.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Clique em gravar
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_96.png)
+<figure><img src="../../.gitbook/assets/Screenshot_96.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -299,27 +311,27 @@ O Grupo de equipamentos é a identificação dos tipos de equipamentos, cabendo 
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_59.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_59.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecione a linha que que deseja edita acessorios.\
     2 - Clique no botão menu.\
     3 - Abrir cadastro de equipamentos acessorios.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_60.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_60.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3:
 
     1 - Clique no acessorio que deseja edita.\
     2 - Clique no lapis\
     3 - Corrija o que deseja
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_61.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_61.png" alt=""><figcaption></figcaption></figure>
 *   Passo 4:
 
     1 - Corrija o que deseja\
     2 - Grave.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_62.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_62.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -336,7 +348,7 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_47.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_47.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Escolha a linha ou Subgrupo de equipamento que quer cadastrar ou alterar a tabela de preços;

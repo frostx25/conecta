@@ -30,7 +30,6 @@
     * [Pesquisar contato](documentacao-conecta/publish-your-docs/contato/pesquisar-contato.md)
     * [Bloquear ou arquivar contato](documentacao-conecta/publish-your-docs/contato/bloquear-ou-arquivar-contato.md)
     * [Ver/Alterar dados do contato](documentacao-conecta/publish-your-docs/contato/ver-alterar-dados-do-contato.md)
-* [📅 Agenda](documentacao-conecta/publish-your-docs-1.md)
 
 ***
 
@@ -66,3 +65,5 @@
       * [Código Auxiliar](documentacao-verleih/cadastros/produtos-e-servicos/codigo-auxiliar.md)
       * [Preço De Produtos](documentacao-verleih/cadastros/produtos-e-servicos/preco-de-produtos.md)
       * [Serviços](documentacao-verleih/cadastros/produtos-e-servicos/servicos.md)
+* [🌐 DOCUMENTAÇÃO AGENDA](documentacao-agenda/README.md)
+  * [Em breve!!](documentacao-agenda/em-breve.md)

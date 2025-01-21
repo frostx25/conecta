@@ -39,3 +39,7 @@
     * [Clientes](documentacao-verleih/cadastros/clientes.md)
     * [Equipamentos](documentacao-verleih/cadastros/equipamentos.md)
     * [Fornecedores](documentacao-verleih/cadastros/fornecedores.md)
+    * [RH](documentacao-verleih/cadastros/rh/README.md)
+      * [Departamento](documentacao-verleih/cadastros/rh/departamento.md)
+      * [Funcionários](documentacao-verleih/cadastros/rh/funcionarios.md)
+      * [Vendedores](documentacao-verleih/cadastros/rh/vendedores.md)

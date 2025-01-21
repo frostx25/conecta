@@ -18,12 +18,12 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
 
     Ir em “Cadastro” – “Clientes”.
 
-    !\[Screenshot\_1]\(../img/sep/100/Screenshot\_1.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Clique no botão “folha em branco” – para incluir registro.
 
-    !\[Screenshot\_2]\(../img/sep/100/Screenshot\_2.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
 *   Passo 3: Escolha o Tipo:
 
     * CNPJ – para cadastro de Pessoa Jurídica;\
@@ -34,7 +34,10 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
       \
 
 
-    (\*) Quando o código for **CNPJ** aparecerá o símbolo da Receita Federal !\[Screenshot\_3]\(../img/ReceitaFederal.png) para busca das informações do cadastro do CNPJ.
+    (\*) Quando o código for **CNPJ** aparecerá o símbolo da Receita Federal !![](../../.gitbook/assets/ReceitaFederal.png) para busca das informações do cadastro do CNPJ.
+*
+
+    <figure><img src="../../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
 
     \
 
@@ -144,7 +147,7 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_14.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_14.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -154,7 +157,7 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
 
     Ir em “Cadastro” – “Clientes”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_8.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_8.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecione o cliente no qual deseja incluir mais endereços;\
@@ -167,7 +170,7 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
     {==Caso o cliente queira que o CEI apareça na nota de locação inclua neste campo;==}\
     4 – Ao concluir as informações clique no botão “Gravar”.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_10.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_10.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -177,7 +180,7 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
 
     Ir Em “cadastro” – “clientes”.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_19.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_19.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Selecione o cliente que deseja editar;\
@@ -196,7 +199,7 @@ O item ou personagem mais importante da sua e da nossa empresa, destinatário de
 
     Ir em “Cadastro” – “Clientes”;
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_22.png)
+    <figure><img src="../../.gitbook/assets/Screenshot_22.png" alt=""><figcaption></figcaption></figure>
 *   Passo 2:
 
     1 - Clique no botão “Duas Folhinhas Brancas” para abrir a tela de “Cadastro de Endereços”;\

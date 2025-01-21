@@ -1,0 +1,6 @@
+---
+icon: truck-moving
+---
+
+# Locação
+

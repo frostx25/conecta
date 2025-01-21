@@ -31,3 +31,11 @@
     * [Bloquear ou arquivar contato](documentacao-conecta/publish-your-docs/contato/bloquear-ou-arquivar-contato.md)
     * [Ver/Alterar dados do contato](documentacao-conecta/publish-your-docs/contato/ver-alterar-dados-do-contato.md)
 * [📅 Agenda](documentacao-conecta/publish-your-docs-1.md)
+
+***
+
+* [🌐 DOCUMENTAÇÃO VERLEIH](documentacao-verleih/README.md)
+  * [Cadastros](documentacao-verleih/cadastros/README.md)
+    * [Clientes](documentacao-verleih/cadastros/clientes.md)
+    * [Equipamentos](documentacao-verleih/cadastros/equipamentos.md)
+    * [Fornecedores](documentacao-verleih/cadastros/fornecedores.md)

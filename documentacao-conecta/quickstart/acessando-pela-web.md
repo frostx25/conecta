@@ -8,6 +8,16 @@ Sempre que você acessar sua conta, um **código de validação** será enviado 
 
 &#x20;
 
+{% hint style="info" %}
+**Pré-requisitos**
+
+Disponível para todos os usuário cadastrados na plataforma, com um número que tenha whatsapp e/ou e-mail.
+
+Cadastre os domínios @dosistemas.com na whitelist de seu servidor de email para que não tenha problema para receber nosso código por email.
+
+Sempre acessar usando como navegador Google Chrome.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Acesse o site [https://conecta.dosistemas.com.br/](https://conecta.dosistemas.com.br/) e clique no botão entrar para ser direcionado a tela de login

@@ -15,7 +15,7 @@ Uma conversa **concluída** pode ser recuperada na **pasta de concluídos**. A c
 * Para atendimentos **em andamento**, clique no botão **"Concluir"** no **canto superior direito**.
 * Para atendimentos na fila de **"Novos"**, clique no botão **"Concluir"** no **canto inferior direito**.
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-01-21 111026 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Escolha entre Classificar e Concluir ou apenas Concluir.
 

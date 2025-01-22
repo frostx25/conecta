@@ -17,11 +17,11 @@ description: >-
 
 Depois de encontrar o contato desejado, clique no botão "**Reiniciar**" no canto inferior direito da tela.
 
-<figure><img src="../../.gitbook/assets/Passo 1 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 1 (3) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Ao clicar no botão reiniciar abrirá uma tela com a opção dos **modelos de mensagens** do tipo atendimento. Selecione o modelo que deseja utilizar para reiniciar seu atendimento em seguida clique em **continuar**.
 
-<figure><img src="../../.gitbook/assets/Passo 2 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 2 (4) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 3:** Preencha os parâmetros contidos na mensagem (caso seja necessário), em seguida clique em **Enviar mensagem**.
 

@@ -20,7 +20,7 @@ Clique em "Novos" para abrir a lista de atendimentos na fila.
 
 **Passo 3**: Ao **iniciar o atendimento**, a conversa é movida da aba **"Novos"** para **"Meus"**. A plataforma registra o **usuário responsável pelo atendimento**, incluindo o **horário de início** e o **canal de atendimento utilizado** (essas informações não são visíveis para o contato). Além disso, ao lado do canal utilizado, é possível visualizar que a **conversa está em andamento**.
 
-<figure><img src="../../.gitbook/assets/Passo 3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 3 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 

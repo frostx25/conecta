@@ -1,8 +1,8 @@
 ---
+icon: file-doc
 description: >-
   O envio de documentos no HelenaCRM permite que os usuários compartilhem
   arquivos importantes diretamente nas conversas.
-icon: file-doc
 ---
 
 # Enviar documento
@@ -17,7 +17,7 @@ icon: file-doc
 
 **Passo 3**: Após o(s) **documento(s)** ser(em) enviado(s), ele(s) estará(ão) disponível(is) para **visualização** ou **download** pelo contato.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Passo 1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 

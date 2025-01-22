@@ -1,9 +1,9 @@
 ---
+icon: square-user
 description: >-
   A funcionalidade de importação de contatos na Conecta permite integrar
   informações de outras fontes diretamente na plataforma, como nome, e-mail,
   telefone, etiquetas e campos personalizados
-icon: square-user
 ---
 
 # Importação de contatos
@@ -23,7 +23,7 @@ icon: square-user
 
 **Passo 1**: Acesse o menu **"CRM"** e clique em **"Contatos"**. Em seguida, selecione o botão **"Importar Contatos"** para iniciar o processo de importação.
 
-<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Selecione uma das opções disponíveis para a fonte de dados de origem, como **planilha do Google**, **arquivo Excel**, **arquivo CSV** ou **arquivo vCard**, para realizar a importação.
 

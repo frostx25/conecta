@@ -14,11 +14,11 @@ description: >-
 
 **Passo 2**: Após clicar na opção **"Vídeo"**, a pasta do seu computador será aberta para que você possa escolher o arquivo que deseja enviar. Selecione o(s) **vídeo(s)** e clique em **"Enviar"**. Após o **vídeo** ser enviado, ele estará disponível para **visualização** ou **download** pelo contato.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 
-* A plataforma segue as regras do **WhatsApp** para o **tamanho de envio de arquivos**. No caso de **vídeos**, o **tamanho máximo** é de **16 MB**.
+* A plataforma segue as regras do **WhatsApp** para o **tamanho de envio de arquivos**. No caso de **vídeos**, o **tamanho máximo** é de **180 MB**.
 * Caso o arquivo ultrapasse esse limite, a plataforma enviará um **link** para que o contato possa fazer o **download**.
 
 [Anterior](https://docs.helena.app/documentacao/atendimento/tipos-de-mensagens/enviar-documento)

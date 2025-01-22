@@ -12,15 +12,15 @@ _Sempre que um **novo contato** enviar uma mensagem, a plataforma criará uma **
 
 Clique em "Novos" para abrir a lista de atendimentos na fila.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Selecione o atendimento que você deseja iniciar. Isso abrirá o **feed de conversa** com o contato. Em seguida, clique em 💬 "Iniciar" para abrir a janela de conversa.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 2 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 3**: Ao **iniciar o atendimento**, a conversa é movida da aba **"Novos"** para **"Meus"**. A plataforma registra o **usuário responsável pelo atendimento**, incluindo o **horário de início** e o **canal de atendimento utilizado** (essas informações não são visíveis para o contato). Além disso, ao lado do canal utilizado, é possível visualizar que a **conversa está em andamento**.
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 3.jpg" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 

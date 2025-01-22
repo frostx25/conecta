@@ -22,7 +22,7 @@ _<mark style="color:blue;">Um atendimento pode ser transferido tanto antes de se
 
 **Passo 3**: Se você escolher transferir para uma **equipe**, uma tela de **confirmação** será exibida, informando que o atendimento foi transferido com sucesso. Vale ressaltar que, no menu **"Novos"**, o atendimento aparecerá novamente como **um novo atendimento**.
 
-<figure><img src="../../.gitbook/assets/Passo 3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 3 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Se você escolher transferir para uma **pessoa**, uma tela de **confirmação** será exibida, informando que o atendimento foi transferido com sucesso. Observe que, no menu **"Outros"**, aparecerá um **indicador** mostrando que o atendimento foi **direcionado para outro usuário** da plataforma.
 

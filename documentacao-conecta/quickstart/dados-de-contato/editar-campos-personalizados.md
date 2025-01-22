@@ -10,11 +10,11 @@ Os **campos personalizados** são uma ferramenta poderosa para adaptar a **Plata
 
 **Passo 1**: Na tela inicial, clique no menu "**CRM**" e depois clique em "**Contatos**".
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Passo 1.jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Selecione um **contato** para abrir a janela com as informações relacionadas. A plataforma apresenta campos **pré-definidos**, como **Nome**, **Telefone**, **E-mail**, **Instagram**, **Etiquetas**, **Carteirização**, **Sequências** e **Notas Internas**. Contudo, você pode **adicionar campos personalizados**: role até o final da página e clique em **Adicionar/Alterar Campos Personalizados**.
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Passo 2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 3**: Ao clicar em **Adicionar/Alterar Campos Personalizados**, uma nova janela será aberta, mostrando algumas opções de campos que podem ser adicionados. Role o cursor para baixo e você encontrará a opção **Adicionar um novo campo**.
 

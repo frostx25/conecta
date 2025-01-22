@@ -12,13 +12,13 @@ description: >-
 
 Em seguida, clique na opção **"Atendimentos"** e depois no **símbolo de "+"** localizado na parte **superior esquerda** da tela.
 
-<figure><img src="../../.gitbook/assets/Passo 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 2**: Na janela que será exibida, selecione o **contato** com quem deseja iniciar um atendimento. Você pode **pesquisar** pelo **nome**, **e-mail** ou **telefone** do contato.
 
 Em seguida clique no ícone 💬 que está ao lado do contato.
 
-<figure><img src="../../.gitbook/assets/Passo 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Passo 2 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **Passo 3**: Ao clicar no ícone 💬 abrirá uma janela para escolher o canal que deseja utilizar para iniciar o atendimento (caso tenha mais de um canal conectado, todos serão exibidos).
 

@@ -353,20 +353,29 @@ Também pode criar tabela específica para um cliente.\
 
     1 - Escolha a linha ou Subgrupo de equipamento que quer cadastrar ou alterar a tabela de preços;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_48.png)
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+
+
+
 *   Passo 3:
 
     1 - Clique no Icone “folha branca incluir registro”.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_49.png)
-* Passo 4:
-  1. Clique no botão “Menu” e escolha a opção Cadastro de Tabela de Preços;
-  2. Clicar no botão “Folha em Branco” para iniciar o processo;
-  3. Campo “Unidade” escolha o tipo de unidade padrão para a tabela de preços;
-  4. Campo “Período/Quantidade” – indique o período ou quantidade para a tabela de preço;
-  5. Campo “Valor Unitário” – Indique o valor unitário para o período escolhido;
-  6. Campo “Condições de Pagamento” – indique a condição de pagamento aplicável;
-  7. Campo “Data Inicial” vem pré preenchida com a data do computador, alterável quando for o caso;
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+
+*   Passo 4:
+
+    1. Clique no botão “Menu” e escolha a opção Cadastro de Tabela de Preços;
+    2. Clicar no botão “Folha em Branco” para iniciar o processo;
+    3. Campo “Unidade” escolha o tipo de unidade padrão para a tabela de preços;
+    4. Campo “Período/Quantidade” – indique o período ou quantidade para a tabela de preço;
+    5. Campo “Valor Unitário” – Indique o valor unitário para o período escolhido;
+    6. Campo “Condições de Pagamento” – indique a condição de pagamento aplicável;
+    7. Campo “Data Inicial” vem pré preenchida com a data do computador, alterável quando for o caso;
+
+
+
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -376,26 +385,31 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_51.png)
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a linha que que deseja colocar acessorios.\
     2 - Clique no botão menu.\
     3 - Abrir cadastro de equipamentos acessorios.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_52.png)
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique no Icone “folha branca incluir registro”.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_53.png)
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
+
+
 *   Passo 4:
 
     1 - Clique na lupa para buscar item que vai ser o acessorio do principal.\
     2 - Quantidade que vai normalmente para cada equipamento.\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_54.png)
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -404,30 +418,49 @@ Também pode criar tabela específica para um cliente.\
 *   Passo 1:
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos”;
+
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1. Escolha o equipamento quantitativo a incluir a Compra/Venda ou Baixa;
     2. Escolha no botão “Menu” Abrir Compra e Venda de Equipamentos Quantitativos;
     3. Clicar no botão “Folha em Branco” para ir para a Tela de Equipamentos Quantitativos;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_56.png)\
-    \
-    !\[Screenshot]\(../img/sep/100/Screenshot\_57.png)\
+
+
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+
+\
+
 
 * Passo 3:
   1. Escolha a Operação que deseja entre: Compra, Venda ou Baixa;
-  2. !\[Screenshot]\(../img/sep/100/Screenshot\_102.png)\
-     **Quando a escolha for a Compra:**
-  3. Indique o Fornecedor;
-  4. Informe os dados de Data da Compra, Quantidade, Valor Unitário, No. NF e Depósito, se for o caso;
-  5. !\[Screenshot]\(../img/sep/100/Screenshot\_77.png)\
-     **Quando a escolha for a Venda:**
-  6. Indique o Cliente;
-  7. Preencha os campos Data da Venda, Quantidade, Valor Unitário, No. Da NF, Depósito, quando for o caso;
-  8. **Quando a escolha for a Baixa:**
-  9. Preencha os campos Data da Baixa, Quantidade, Valor Unitário, No. Da NF, Depósito, quando for o caso;
-  10. !\[Screenshot]\(../img/sep/100/Screenshot\_58.png)\
 
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+
+\
+**Quando a escolha for a Compra:**
+
+1. Indique o Fornecedor;
+2. Informe os dados de Data da Compra, Quantidade, Valor Unitário, No. NF e Depósito, se for o caso;
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+
+\
+**Quando a escolha for a Venda:**
+
+1. Indique o Cliente;
+2. Preencha os campos Data da Venda, Quantidade, Valor Unitário, No. Da NF, Depósito, quando for o caso;
+3. **Quando a escolha for a Baixa:**
+4. Preencha os campos Data da Baixa, Quantidade, Valor Unitário, No. Da NF, Depósito, quando for o caso;\
+
+
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -437,26 +470,35 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_63.png)
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+
+
 *   Passo 2:
 
     1 - Selecione a linha que deseja fazer edição de compra.\
     2 - Clique no botão menu.\
     3 - Abrir compra e venda de equipamento quantitativo.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_64.png)
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - selecione a compra, venda ou baixa que deseja editar\
-    2 - Clique no lapis
+    2 - Clique no lápis
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_65.png)
+
+
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Corrija o que deseja.\
     2 - Grava.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_66.png)
+
+
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -466,26 +508,35 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_67.png)
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a linha que deseja fazer edição de compra.\
     2 - Clique no botão menu.\
     3 - Abrir compra e venda de equipamento quantitativo.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_68.png)
+
+
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+
+
+
 *   Passo 3:
 
     1 - selecione a compra, venda ou baixa que deseja remover.\
-    2 - Clique na lixeira
+    2 - Clique na lixeira.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_69.png)
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Corrija o que deseja.\
     2 - Grava.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_70.png)
+
+
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -495,19 +546,25 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_71.png)
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione os dados que precisa fazer a impressao fazendo um filtro.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_72.png)
+
+
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Escolha o relatorio que melhor te atende.\
     2 - Clique no relatorios.\
     3 - Clique na impressora.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_73.png)
+
+
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -517,17 +574,25 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_78.png)
+
+
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a linha e patrimonio que deseja da baixa. 2 - Selecione o patrimonio que deseja baixar. 3 - Clicar no “Iapis”
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_79.png)
+
+
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Mude o status de disponivel para Baixa 2 - Grava
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_80.png)
+
+
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Fazer Uma Edição Em Lote
 
@@ -537,21 +602,29 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_81.png)
+
+
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione os dados que precisa fazer a edição em lote fazendo um filtro.\
     2 - Clique no botão menu.\
     3 - Edição em lote.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_82.png)
+
+
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione o item que deseja alterar.\
     2 - Coloque o que deseja alterar.\
     3 - Clique em Gravar.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_83.png)
+
+
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -561,25 +634,36 @@ Também pode criar tabela específica para um cliente.\
 
     Ir em “Cadastro” – “Equipamentos” – “Equipamentos
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_84.png)
+
+
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a linha que que deseja remover acessorios.\
     2 - Clique no botão menu.\
     3 - Abrir cadastro de equipamentos acessorios.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_85.png)
+
+
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique no acessorio que deseja remover.\
     2 - Clique na lixeira.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_86.png)
+
+
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Grave.
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_87.png)
+
+
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -589,11 +673,18 @@ Também pode criar tabela específica para um cliente.\
 
     1 - Ir em “Cadastro” – “Equipamentos” – “Equipamentos”;
 
-    !\[Screenshot]\(../img/sep/100/Screenshot\_84.png)
+
+
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 – Clique no botão “Menu”;\
-    2 – Escolha o item “Inventário de Linhas Entre Filiais”;\
-    !\[Screenshot]\(../img/sep/100/Screenshot\_112.png) 3 – O sistema iniciará o processo que mostrará qual o status que cada equipamento está em todas as filiais com a opção de alteração para colocar o status correto, quando em desacorda em cada filial;
+    2 – Escolha o item “Inventário de Linhas Entre Filiais”;
+
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+
+\
+&#x20;3 – O sistema iniciará o processo que mostrará qual o status que cada equipamento está em todas as filiais com a opção de alteração para colocar o status correto, quando em desacorda em cada filial;
 
 ***

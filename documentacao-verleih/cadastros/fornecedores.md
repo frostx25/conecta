@@ -13,17 +13,22 @@
 
     Ir em “Cadastro” – “fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_55.png)
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no icone folhinha branca incluir registro.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_56.png)
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Tipo: pode ser por CNPJ, CPF ou outros, se escloher CNPJ quando colocar o codigo vai aparecer uma pergunta se deseja importar da receita coloque sim digite a imagem, que o sistema carrega as informaçoes.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_57.png)
+
+
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Coloque o codigo.\
@@ -42,7 +47,10 @@
     14 - Pais.\
     15 - Codigo do pais (Brasil 1058).
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_58.png)
+
+
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Clique em ficha cadastral.\
@@ -57,27 +65,33 @@
     10 - E-mail.\
     11 - Site.
 
-    \
-    !\[Screenshot]\(../img/sep/200/Screenshot\_59.png)
+
+
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Clique em Relaciomento. 2 - Transportadora, caso tenha senao deixa vazio.\
     3 - Conta contabil, Deixa vazio
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_60.png)
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 7:
 
     1 - Clique na aba Fotos digitalização.\
     2 - Clique na pastinha amarela para buscar o arquivo da foto ou tire uma foto.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_61.png)
+<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 8:
 
     1 - Clique em Observação\
     2 - Descreva a Observação.\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_62.png)
+
+
+<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,16 +102,17 @@
 
     1 - Selecione o fornecedor que deseja fazer correção.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_63.png)
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-    1 - Clique no icone lapis.
+1 - Clique no icone lapis.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_64.png)
+<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique na aba que deseja fazer a correção. 2 - Corrija. 3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_65.png)
+<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -107,20 +122,22 @@
 
     Ir em “Cadastro” – “Fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_66.png)
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o fornecedor ou uma lista de forcedores fazendo o filtro.\
     2 - Clique no icone impressora.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_67.png)
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Escolha o relatorio.\
     2 - Clique na impressora\
     3 - Sair.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_68.png)
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -130,7 +147,8 @@
 
     Ir em “Cadastro” – “Fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_69.png)
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione os fornecedores que deseja fazer a edição em lote.\
@@ -138,7 +156,8 @@
     2 - Clique no icone menu.\
     3 - Edição em lote.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_70.png)
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione.\

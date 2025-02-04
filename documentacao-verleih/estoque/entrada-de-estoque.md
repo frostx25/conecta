@@ -1,12 +1,5 @@
 # Entrada De Estoque
 
-\
-
-
-##
-
-***
-
 ## Inclusão De Entrada De Estoque Importando Pedido
 
 Passo 1:

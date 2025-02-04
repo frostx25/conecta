@@ -1,10 +1,5 @@
 # Saida De Estoque Consumo
 
-\
-
-
-##
-
 ***
 
 ## Inclusão De Saida De Estoque Consumo

@@ -6,7 +6,7 @@ icon: pen
 
 Os **campos personalizados** são uma ferramenta poderosa para adaptar a **Plataforma Conecta** às necessidades específicas do seu negócio. Eles permitem que você capture informações adicionais essenciais para o seu fluxo de trabalho. Este artigo fornecerá uma visão detalhada de como **inserir** e **editar campos personalizados**, garantindo que você possa ajustar e atualizar essas informações conforme necessário.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela inicial, clique no menu "**CRM**" e depois clique em "**Contatos**".
 
@@ -18,7 +18,7 @@ Os **campos personalizados** são uma ferramenta poderosa para adaptar a **Plata
 
 **Passo 3**: Ao clicar em **Adicionar/Alterar Campos Personalizados**, uma nova janela será aberta, mostrando algumas opções de campos que podem ser adicionados. Role o cursor para baixo e você encontrará a opção **Adicionar um novo campo**.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 4:** Para adicionar um novo campo, preencha a aba que se abrirá e escolha o tipo de informação que esse campo deverá conter: **Texto curto**, **Texto longo**, **Número inteiro**, **Número decimal**, **Lista de opções** ou **Multiseleção**. Em seguida, escolha um nome para o campo personalizado e clique em **Salvar**.
 

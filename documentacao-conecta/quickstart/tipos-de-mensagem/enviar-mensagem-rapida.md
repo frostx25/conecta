@@ -17,11 +17,11 @@ description: >-
 
 **Passo 3**: A mensagem será direcionada para a **barra de digitação**, onde os **parâmetros existentes** serão preenchidos automaticamente com os **dados do contato**. Você pode **editar o texto** antes de enviá-lo. Para enviar, clique no **ícone de envio**![](https://docs.helena.app/~gitbook/image?url=https%3A%2F%2F3176979156-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F3HTAyLM7hzj1t6Nt4ii2%252Fuploads%252FLOIip1wzhN1bEKgERXYv%252Fimage.png%3Falt%3Dmedia%26token%3D393e5dd8-a9e4-4eb7-bf04-8c7053a9069d\&width=300\&dpr=4\&quality=100\&sign=d4172f49\&sv=2).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 4:** Após enviar a mensagem, ela será exibida na **janela de conversa**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 

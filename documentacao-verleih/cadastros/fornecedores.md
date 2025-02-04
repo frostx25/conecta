@@ -164,7 +164,7 @@
     2 - Altere.\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_71.png)
+<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -174,18 +174,20 @@
 
     Ir em “Cadastro” – “Fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_72.png)
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o fornecedor que deseja remover.\
     2 - Clique no icone lixeira.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_73.png)
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_74.png)
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -195,18 +197,21 @@
 
     Ir em “Cadastro” – “fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_84.png)
+<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o fornecedor que deseja criar conato.\
     2 - Clique no icone 2 bonequinhos.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_85.png)
+<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique na folhinha branca incluir registro.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_86.png)
+<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Clique em Informações.\
@@ -221,20 +226,22 @@
     10 - Cargo.\
     11 - Departamento.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_87.png)
+<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - clique em fotos digitalizações.\
     2 - Clque na pastinha amarela para adicionar foro ou digitaliza a foto.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_88.png)
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Clique em obesevação\
     2 - Digite o que precisa.\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_89.png)
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -244,26 +251,29 @@
 
     Ir em “Cadastro” – “fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_90.png)
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o fornecedor que deseja edita conato.\
     2 - Clique no icone 2 bonequinhos.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_91.png)
-*   asso 3:
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+
+*   Passo 3:
 
     1 - Selecione o contato que deseja fazer correção.\
     2 - Clique no icone Lapis.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_92.png)
+<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Clique na aba que deseja corrigir.\
     2 - Corrija o que deseja<\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_93.png)
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -273,14 +283,20 @@
 
     Ir em “Cadastro” – “fornecedores”.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_94.png)
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
-    1 Selecione o fornecedor que deseja remover contato. 2 Clique no icone 2 bonequinhos.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_95.png)
+* 1- Selecione o fornecedor que deseja remover contato.&#x20;
+* 2- Clique no icone 2 bonequinhos.
+
+<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
-    1 Selecione o contato que deseja remover. 2 Clique no icone lixeira. 3 Gravar.
+    1- Selecione o contato que deseja remover.
+* 2- Clique no icone lixeira.&#x20;
+* 3- Gravar.
 
-    !\[Screenshot]\(../img/sep/200/Screenshot\_96.png)
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>

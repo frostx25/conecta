@@ -13,28 +13,32 @@
 
     Ir em “Compras” – “Analisador de consumo”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_50.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Coloque o periodo a ser analisado.\
     2 - Pesquisar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_51.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Coloque a alíquota de variação.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_52.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Clique em “Incluir, “Executar”.\
     2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_53.png)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Data.\
     2 - Funcionário.\
     3 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_54.png)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

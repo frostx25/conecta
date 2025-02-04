@@ -1,10 +1,5 @@
 # Consumo
 
-\
-
-
-##
-
 ***
 
 ## INCLUSÃO DE ENTRADA DE CONSUMO IMPORTANDO PEDIDO
@@ -19,19 +14,33 @@ Passo 2:
 
 Passo 3:
 
-1 - Fornecedor. 2 - Importar pedido. 3 - Sim.
+1 - Fornecedor.&#x20;
+
+2 - Importar pedido.&#x20;
+
+3 - Sim.
 
 Passo 4:
 
-1 - Selecione o item que vai importar. 2 - Coloque o CFOP. 3 - Gravar.
+1 - Selecione o item que vai importar.&#x20;
 
-Passo 5 1
+2 - Coloque o CFOP. 3 - Gravar.
 
-\- Clique no item. 2 - Clique no ícone centro de custo.
+Passo 5&#x20;
+
+1 - Clique no item.&#x20;
+
+2 - Clique no ícone centro de custo.
 
 Passo 6:
 
-1 - Custo por: “Centro de custo ou equipamento.” 2 - Coloque o centro de custo. 3 - Operação de compra. 4 - Gravar
+1 - Custo por: “Centro de custo ou equipamento.”&#x20;
+
+2 - Coloque o centro de custo.&#x20;
+
+3 - Operação de compra.&#x20;
+
+4 - Gravar
 
 Passo 7:
 

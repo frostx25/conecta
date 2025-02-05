@@ -13,25 +13,28 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_85.png)
+<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer Baixa De Estoque.\
     2 - Clicar No “menu”.\
     3 - Baixa De Estoque.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_86.png)
+<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Pedido Que Deseja Fazer A Baixa De Estoque.\
     2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_87.png)
+<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_88.png)
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -41,20 +44,22 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_94.png)
+<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer Cancelamento.\
     2 - Clicar No “menu”.\
     3 - Cancelamento De Itens.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_95.png)
+<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Item Que Vai Cancelar.\
     2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_96.png)
+<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -64,29 +69,33 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_89.png)
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer Correção.\
     2 - Clicar No “lápis”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_90.png)
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione A Aba Que Deseja Fazer Correção
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_91.png)
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Corrija.\
     2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_92.png)
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_93.png)
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -96,19 +105,21 @@
 
     1 - Ir em “Venda” – “Cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_94.png)
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o pedido que deseja fazer a impressão.\
     2 - Clicar na “impressora”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_95.png)
+<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Escolha o relatório.\
     2 - Clique na impressora.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_96.png)
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -118,12 +129,14 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_97.png)
+<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar No “incluir Registro Na Folhinha Branca”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_98.png)
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Data Do Pedido.\
@@ -132,13 +145,15 @@
     4 - Contato E Dados Do Contato\
     5 - Número Do Pedido Do Cliente Caso Tenha, Senão Deixar Vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_99.png)
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Clique Em, (Produtos/serviços).\
     2 - Clique Na, (Folhinha Branca Incluir Registro).
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_100.png)
+<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Produto.\
@@ -147,7 +162,8 @@
     (Observação: Se Quiser Conferir Os Impostos, Clique Em Imposto.)\
     4 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_101.png)
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Clique Em. (Inf. De Cobrança).\
@@ -156,7 +172,8 @@
     4 - Operação.\
     5 - Endereço De Cobrança.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_102.png)
+<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 7:
 
     1 - Clique Em, (Inf. De Venda.)\
@@ -168,7 +185,8 @@
     7 - Equipamento, Senão Tem, Deixar Vazio.\
     8 - Série, Senão Tem, Deixar Vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_103.png)
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 8:
 
     1 - Clicar Em (Informação De Transporte).\
@@ -178,7 +196,8 @@
     5 - Valor De Outros, Senão Tem, Deixar 0,00.\
     6 - Endereço De Entrega, Senão Tem, Deixar Vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_104.png)
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 9:
 
     1 - Clique Em, (Informação De Contato).\
@@ -189,7 +208,8 @@
     6 - Celular.\
     7 - E-mail.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_105.png)
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 10:
 
     1 - Clique Em, (Observações).\
@@ -197,7 +217,7 @@
     3 - Interna Só Da Sua Empresa.\
     4 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_106.png)
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -207,32 +227,37 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_1.png)
+<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer A Nota. 2 - Clicar No “menu”
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_2.png)
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Pedido Ou Todos. 2 - Clique Em Emitir.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_3.png)
+<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Confira Todos Os Dados. 2 - De (Ok).
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_4.png)
+<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Confira O Vencimento, Valor Etc. 2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_5.png)
+<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Sim.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_6.png)
+<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -242,15 +267,17 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_7.png)
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Remover.\
     2 - Clicar No “lixeira”
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_8.png)
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/400/Screenshot\_9.png)
+<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>

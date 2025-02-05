@@ -8,13 +8,13 @@
 
     Ir Em “compras” – “Entrada De Consumo”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar No “incluir Registro Na Folhinha Branca”
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -22,7 +22,7 @@
     2 - Importar Pedido.\
     3 - Sim.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4:
 
@@ -30,14 +30,14 @@
     2 - Coloque O CFOP.\
     3 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 5
 
     1 - Clique No Item.\
     2 - Clique No Ícone Centro De Custo.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 6:
 
@@ -46,20 +46,20 @@
     3 - Operação De Compra.\
     4 - Gravar
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 7:
 
     1 - Clique Em Inf. De Impostos.\
     2 - Coloque O Valor Dos Impostos No Campo Correto Caso Tenha, Deixar 0,00.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 8:
 
     1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 9:
 
@@ -70,14 +70,14 @@
     5 - Operação De Pagamento, Senão Quiser Colocar Deixar Vazio.\
     6 - Gerar Duplicata.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 10:
 
     1 - Conferir O Vencimento.\
     2 - Gravar
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -87,33 +87,33 @@
 
     Ir Em “compras” – “Entrada De Consumo”.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar No “incluir Registro Na Folhinha Branca”
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
     1 - Importar Xml.\
     2 - Localize O Xml E Confirme.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4:
 
     1 - Clique No (I) E Confirme.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 5
 
     1 - Selecione O Item Que Quer Colocar Centro De Custo.\
     2 - Clique No Icone Centro De Custo.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 6
 
@@ -122,14 +122,14 @@
     3 - Operação.\
     4 - Gravar
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 7:
 
     1 - Clique Em Inf. De Impostos.\
     2 - Coloque O Valor Dos Impostos No Campo Correto Caso Tenha, Deixar 0,00.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -137,7 +137,7 @@
 
     1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 9:
 
@@ -148,14 +148,14 @@
     6 - Operação De Pagamento, Senão Quiser Colocar Deixar Vazio.\
     7 - Gerar Duplicata.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 10:
 
     1 - Conferir O Vencimento.\
     2 - Gravar
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

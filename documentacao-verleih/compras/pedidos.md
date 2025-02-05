@@ -1,10 +1,5 @@
 # Pedidos
 
-\
-
-
-##
-
 ***
 
 ## Inclusão De Pedido De Compras De Produtos E Serviços
@@ -13,19 +8,22 @@
 
     Ir Em “compras” – “pedido”.
 
-    !\[Screenshot]\(../img/sep/500/Screenshot\_80.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar No “incluir Registro Na Folhinha Branca”
 
-    !\[Screenshot]\(../img/sep/500/Screenshot\_81.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Data Do Pedido.\
     1 - Fornecedor.\
     2 - Clicar No “incluir Registro Na Folhinha Branca”, Para Incluir Os Produtos Ou Serviços.
 
-    !\[Screenshot]\(../img/sep/500/Screenshot\_82.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Tipo, Produto Ou Serviço.\
@@ -41,7 +39,8 @@
     11 - Caso Queira Conferir Os Impostos, Clique Em Impostos.\
     12 - Gravar.
 
-    !\[Screenshot]\(../img/sep/500/Screenshot\_83.png)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Clique Em Inf. De Compra.\
@@ -49,6 +48,9 @@
     3 - Condição De Pagamento.\
     4 - Número De Cotação, Senão Tem, Deixar Vazio.\
     5 - Número De Pedido, Senão Tem, Deixar Vazio.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Clique Em. (Inf. De Transporte).\
@@ -56,6 +58,9 @@
     3 - Valor Do Frete, Senão Tem, Deixar 0,00\
     4 - Valor Do Seguro, Senão Tem, Deixar 0,00\
     5 - Valor Do Outros, Senão Tem, Deixar 0,00
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 7:
 
     1 - Clique Em “inf. De Contato.”\
@@ -64,12 +69,17 @@
     4 - Departamento, Senão Tem, Deixar Vazio.\
     5 - Celular, Senão Tem, Deixar Vazio.\
     6 - E-mail, Senão Tem, Deixar Vazio.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 8:
 
     1 - Clique Em “inf. De Observações.”\
     2 - Clique Em Qual Vai Colocar.\
     3 - Descreva O Que Deseja.\
     4 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -78,15 +88,23 @@
 *   Passo 1:
 
     Ir Em “compras” – “pedido”.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer Correção.\
     2 - Clicar No “lapis”.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Se For Alteração No Cabeçalho Só Alterar.\
     2 - Se For Em Outra Aba Clica Na Aba Que Deseja Corrigir E Altere.\
     3 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,14 +113,22 @@
 *   Passo 1:
 
     Ir Em “compras” – “pedido”.
+
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer Impressão.\
     2 - Clicar Na “impressora”.
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Relatório.\
     2 - Clique Na Impressora.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -111,15 +137,23 @@
 *   Passo 1:
 
     Ir Em “compras” – “pedido”.
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Fazer A Correção.\
     2 - Clicar No “menu”.\
     3 - Cancelamento De Itens.
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Item Que Cai Cancelara.\
     2 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -128,10 +162,18 @@
 *   Passo 1:
 
     Ir Em “compras” – “pedido”.
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Pedido Que Deseja Remover.\
     2 - Clicar No “lixeira”.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>

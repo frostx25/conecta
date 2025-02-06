@@ -13,7 +13,7 @@ description: >-
 
 **Passo 2**: Após clicar na opção **"Documento"**, a pasta do seu computador será aberta para que você possa escolher o arquivo que deseja enviar. Selecione o(s) **documento(s)** e clique em **"Enviar"**.
 
-<figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 3**: Após o(s) **documento(s)** ser(em) enviado(s), ele(s) estará(ão) disponível(is) para **visualização** ou **download** pelo contato.
 

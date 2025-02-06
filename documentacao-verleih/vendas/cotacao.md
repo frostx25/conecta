@@ -1,10 +1,5 @@
 # Cotação
 
-\
-
-
-##
-
 ***
 
 ## Como Clonar Cotação De Venda De Produtos E Serviço
@@ -13,14 +8,15 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_55.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 Selecione A Cotação Que Deseja Clonar.\
     2 Clique No “menu”\
     3 Clonar Cotação
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_56.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -30,44 +26,54 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_57.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Cotação Que Deseja Converter Em Pedido.\
     2 - Clique No “menu”\
     3 - Converter Cotação Para Pedido De Venda.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_58.png)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     Se Quiser Colocar Número De Compra Do Cliente, Senão, Só Dar Ok.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_59.png)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Como Editar Cotação De Venda Produtos E Serviço
 
 * Passo 1: Ir Em “venda” – “cotação”.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Cotação Que Deseja Fazer Correção.\
     2 - Clique No “lápis”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_61.png)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 * Passo 3:
   * Selecione A Aba Que Deseja Fazer Correção.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Corrija O Que Deseja.\
     2 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_63.png)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_64.png)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,19 +83,21 @@
 
     Ir Em “venda” – “cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_65.png)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Cotação Que Deseja Fazer Impressão.\
     2 - Clique No “impressora”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_66.png)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Relatório.\
     2 - Clique Na Impressora.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_67.png)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -99,12 +107,14 @@
 
     Ir em “Venda” – “Cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_68.png)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar no “Incluir registro na folhinha branca”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_69.png)
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Data da cotação.\
@@ -114,13 +124,15 @@
     5 - Validade da proposta.\
     6 - Número do pedido do cliente caso tenha, senão deixar vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_70.png)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Clique em, (Produtos/Serviços).\
     2 - Clique na, (Folhinha branca incluir registro).
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_71.png)
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Produto.\
@@ -129,7 +141,8 @@
     {== (Observação: se quiser conferir os impostos, clique em Imposto.)==}\
     4 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_72.png)
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6:
 
     1 - Clique em. (Inf. de Cobrança).\
@@ -138,7 +151,8 @@
     4 - Operação.\
     5 - Endereço de cobrança.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_73.png)
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 7:
 
     1 - Clique em “Inf. De venda.”\
@@ -150,7 +164,8 @@
     7 - Equipamento, senão tem, deixar vazio.\
     8 - Serie, senão tem, deixar vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_74.png)
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 8:
 
     1 - Clicar em (Informação de transporte).\
@@ -160,7 +175,8 @@
     5 - Valor de outros, senão tem, deixar 0,00.\
     6 - Endereço de entrega, senão tem, deixar vazio.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_75.png)
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 9:
 
     1 - Clique em, (Informação de contato).\
@@ -171,7 +187,8 @@
     6 - Celular.\
     7 - E-mail.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_76.png)
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 10:
 
     1 - Clique em, (Observações).\
@@ -179,7 +196,7 @@
     3 - Interna só da sua empresa.\
     4 - Gravar.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_77.png)
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -189,18 +206,21 @@
 
     Ir em “Venda” – “Cotação”.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_78.png)
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a cotação que deseja remover.\
     2 - Clique no “Lixeira”
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_79.png)
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione a aba que deseja fazer correção.
 
-    !\[Screenshot]\(../img/sep/300/Screenshot\_80.png)
+<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Gravar

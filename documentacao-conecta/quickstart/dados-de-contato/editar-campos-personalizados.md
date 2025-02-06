@@ -6,7 +6,7 @@ icon: pen
 
 Os **campos personalizados** são uma ferramenta poderosa para adaptar a **Plataforma Conecta** às necessidades específicas do seu negócio. Eles permitem que você capture informações adicionais essenciais para o seu fluxo de trabalho. Este artigo fornecerá uma visão detalhada de como **inserir** e **editar campos personalizados**, garantindo que você possa ajustar e atualizar essas informações conforme necessário.
 
-<figure><img src="../../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela inicial, clique no menu "**CRM**" e depois clique em "**Contatos**".
 

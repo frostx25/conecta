@@ -88,7 +88,7 @@
     * [O.S. Terceiros](documentacao-verleih/manutencao/o.s.-terceiros.md)
   * [Financeiro](documentacao-verleih/financeiro/README.md)
     * [Adiantamento De Fornecedor](documentacao-verleih/financeiro/adiantamento-de-fornecedor.md)
-    * [AdiantamentoCliente](documentacao-verleih/financeiro/adiantamentocliente.md)
+    * [Adiantamento de Cliente](documentacao-verleih/financeiro/adiantamento-de-cliente.md)
     * [Compensação](documentacao-verleih/financeiro/compensacao.md)
     * [Boletos](documentacao-verleih/financeiro/boletos.md)
     * [Entrada](documentacao-verleih/financeiro/entrada.md)

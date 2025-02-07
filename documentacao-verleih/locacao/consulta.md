@@ -1,10 +1,5 @@
 # Consulta
 
-\
-
-
-##
-
 ***
 
 ## Como Incluir Consulta/proposta De Locação
@@ -13,9 +8,13 @@ Passo 1:
 
 Ir em Locação - Consulta.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Passo 2:
 
-1 - Clicar no ícone da folha branca “Novo/Incluir registro”
+1 - Clicar no ícone da folha branca “Novo/Incluir registro”.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -24,6 +23,8 @@ Passo 3:
 2 - Histórico: Visualize o histórico do cliente\
 3 - Duplicatas: Visualize as duplicatas vencidas\
 4 - Dados do contato.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 

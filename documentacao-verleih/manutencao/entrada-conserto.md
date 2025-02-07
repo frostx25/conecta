@@ -8,13 +8,13 @@
 
     Ir Em “manutenção” – “entrada”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -30,14 +30,14 @@
     10 - CFOP.\
     11 - Valor Da NF.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4:
 
     1 - Clique No Equipamento.\
     2 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 5:
 
@@ -45,13 +45,13 @@
     2 - Preencher Os Impostos De Acordo Com Informação Do Seu Contador.\
     3 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 6:
 
     1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -92,11 +92,16 @@
 
     1 - Selecione A Entrada Que Deseja Fazer Impressão.\
     2 - Clicar Na “impressora”.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Relatório.\
     2 - Se For No Item Clique Em Equipamento E Corrija.\
     3 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -105,13 +110,24 @@
 *   Passo 1:
 
     Ir Em “manutenção” – “entrada”.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Entrada Que Deseja Remover.\
     2 - Clicar Na “lixeira”.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4
 
     1 - Sim.
+
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>

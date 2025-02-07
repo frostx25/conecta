@@ -8,13 +8,13 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a Pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clicar no “Incluir registro na folhinha branca”.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -30,20 +30,20 @@ Passo 3:
 10 - marque para onde vai a despesa equipamento ou centro de custo.\
 11 - Busque o centro de custo.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Marque se calcula algum dos impostos.\
 2 - Valor da duplicata “NF”.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Observação. 2 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Editar Contas a Pagar
 
@@ -51,14 +51,14 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a Pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Selecione a duplicata que deseja fazer correção.\
 2 - Clicar no “Lapis”.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -66,7 +66,7 @@ Passo 3:
 2 - Corrija.\
 3 - Gravar
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Imprimir Relatorios De Contas A Pagar
 
@@ -74,21 +74,21 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Selecione a duplicata que deseja fazer correção. (Obs tem que fazer o filtro antes).\
 2 - Clicar na “IMPRESSORA”
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Selecione o relatório.\
 2 - Clique na impressora.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Criar Duplicata Apartir De Contas A Pagar
 
@@ -96,7 +96,7 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -104,14 +104,14 @@ Passo 2:
 2 - Clicar no “Menu”\
 3 - Criar duplicata a partir da atual.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Quantidade de duplicatas.\
 2 - OK.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Liquidar Contas A Pagar
 
@@ -119,7 +119,7 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -127,7 +127,7 @@ Passo 2:
 2 - Clicar no “Menu”.\
 3 - Liquidação de contas a pagar.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -136,7 +136,7 @@ Passo 3:
 3 - Desconto, senão tem, deixar 0,00.\
 4 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -146,7 +146,7 @@ Passo 4:
 4 - Operação, como e de que conta saiu o valor.\
 5 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Remover Contas A Pagar
 
@@ -154,20 +154,20 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - Entrada”.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Selecione a duplicata que deseja remover.\
 2 - Clicar no “Lixeira”
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Incluir Liquidação Contas A Pagar
 
@@ -175,13 +175,13 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - liquidação”.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clicar no “Incluir registro na folhinha branca”.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -191,20 +191,20 @@ Passo 3:
 4 - Operação define como foi feito o pagou e de qual conta saiu o valor pago.\
 5 - Clicar no “Incluir registro na folhinha branca”
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Duplicata, “Clique na lupa”.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Localizar a duplicata que vai liquidar.\
 2 - Confirmar.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 6:
 
@@ -213,13 +213,13 @@ Passo 6:
 3 - Desconto caso tenha, senão deixar 0,00.\
 4 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 7:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Editar Liquidação De Contas A Pagar
 
@@ -227,14 +227,14 @@ Passo 1:
 
 Ir Em “financeiro” – “contas A Pagar - Liquidação”.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Seleciona A Liquidação Que Deseja Fazer Correção.\
 2 - Clicar No “lápis”.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -242,7 +242,7 @@ Passo 3:
 2 - Se For Dado Da Duplicata Clique Na Duplicata Clique No Lápis Altere E Grave.\
 3 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Imprimir Relatório De Liquidação De Contas A Pagar
 
@@ -250,21 +250,21 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - liquidação”.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Seleciona a liquidação que deseja impressão.\
 2 - Clicar no “impressora”.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Selecione o relatório.\
 2 - Clique na impressora.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como Remover Liquidação De Contas A Pagar
 
@@ -272,14 +272,14 @@ Passo 1:
 
 Ir em “Financeiro” – “Contas a pagar - liquidação”.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Seleciona a liquidação que deseja remover.\
 2 - Clicar no “Lixeira”.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 

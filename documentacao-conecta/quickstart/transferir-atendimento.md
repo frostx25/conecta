@@ -6,7 +6,7 @@ icon: arrows-left-right
 
 _<mark style="color:blue;">Um atendimento pode ser transferido tanto antes de ser assumido quanto durante o atendimento. É possível transferi-lo para outro usuário ou para outra equipe, garantindo mais flexibilidade na gestão das conversas.</mark>_
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela de **Atendimentos**, clique na **aba desejada** e selecione a **conversa que deseja transferir**.
 

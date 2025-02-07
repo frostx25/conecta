@@ -6,7 +6,7 @@ icon: server
 
 O **painel de Dados do Contato** permite que você **organize** e **segmente** seus contatos, proporcionando uma visão mais detalhada sobre eles. Assim, você pode entender melhor seus hábitos e utilizar informações importantes para **reconectar-se** com os contatos de maneira mais eficiente.
 
-<figure><img src="../../../.gitbook/assets/image (35) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela inicial, clique no menu "**CRM**" e depois clique em "**Contatos**". Em seguida, selecione o contato cujos dados deseja visualizar e clique para abrir uma janela com as **informações detalhadas do contato**.
 

@@ -7,7 +7,7 @@ description: >-
 
 # Reiniciar atendimento
 
-<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela de atendimentos, selecione o contato que deseja reiniciar o atendimento. Isso pode incluir:
 
@@ -25,13 +25,13 @@ Depois de encontrar o contato desejado, clique no botão "**Reiniciar**" no cant
 
 **Passo 3:** Preencha os parâmetros contidos na mensagem (caso seja necessário), em seguida clique em **Enviar mensagem**.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 4:** Após enviar o **modelo de mensagem** é necessário aguardar a interação do contato para conversar livrement&#x65;**.** A janela de conversa será reaberta somente quando o **contato interagir** de alguma forma. Isso inclui o envio de **mensagem de texto**, **emoji**, **vídeo** ou **arquivo**.
 
 **Passo 5:** Se novas mensagens forem enviadas ao contato antes de qualquer interação da parte dele, essas mensagens permanecerão na **fila**, aguardando uma resposta do contato.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Considerações Adicionais**:
 

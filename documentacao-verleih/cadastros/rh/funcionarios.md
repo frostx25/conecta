@@ -1,8 +1,5 @@
 # Funcionários
 
-\
-\##
-
 ***
 
 ## Cadastro de Funcionários
@@ -15,12 +12,14 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_120.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar no botão “Folha em Branco” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_115.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Campo “Código” – defina de forma abreviada o nome ou apelido para representar o item a incluir;
@@ -43,7 +42,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     9 – Campo “Funcionário Ativo” – será colocado como verdadeiro automaticamente na abertura do item;
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_116.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Edição:
 
@@ -51,37 +50,40 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_114.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar no botão “Lápis” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_117.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija os campos que deseja alterar.
 
     2 – Gravar;
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_116.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Exclusão:
 
-{==Só permite excluir quando não foi utilizado em nenhum processo.==}
+<mark style="color:blue;">Só permite excluir quando não foi utilizado em nenhum processo.</mark>
 
 *   Passo 1:
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_114.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 – Escolha o item que deseja remover;
 
     2 – Clique no botão “Lixeira”;
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_118.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-    3 – Clique no botão “Gravar”.
+3 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/100/Screenshot\_119.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

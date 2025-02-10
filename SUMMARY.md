@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔌 Conecta](README.md)
+* [🔌 D\&O Docs](README.md)
 
 ## 🌐 Documentação Conecta
 

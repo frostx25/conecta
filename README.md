@@ -1,10 +1,10 @@
-# 🔌 Conecta
+# 🔌 D\&O Docs
 
-Bem-vindo(a) a base de conhecimento da Plataforma **Conecta**!
+Bem-vindo(a) a base de conhecimento da **D\&O Sistemas**
 
-Aqui você encontrará uma visão geral de todos os recursos incríveis que o **Conecta** pode oferecer.
+Aqui você encontrará uma visão geral de todos os recursos e serviços incríveis que o **D\&O Sistemas te** pode oferecer.
 
-Você verá nesta documentação informações sobre todas as funcionalidades do **Conecta** e encontrará orientações sobre como usar os recursos necessários em sua empresa.
+Você verá nesta documentação informações sobre todas as funcionalidades do Verleih e do **Conecta** e encontrará orientações sobre como usar os recursos necessários em sua empresa.
 
 ### Documentação Conecta
 

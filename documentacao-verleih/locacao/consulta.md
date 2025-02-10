@@ -14,7 +14,7 @@ Passo 2:
 
 1 - Clicar no ícone da folha branca “Novo/Incluir registro”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -24,7 +24,7 @@ Passo 3:
 3 - Duplicatas: Visualize as duplicatas vencidas\
 4 - Dados do contato.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 

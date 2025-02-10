@@ -1,10 +1,5 @@
 # Vendedores
 
-\
-
-
-##
-
 ***
 
 ## Cadastro de Vendedores
@@ -19,12 +14,14 @@ Tem o objetivo de definir as comissões que serão pagas para o vendedor nas ope
 
     1 - Ir Em “cadastro” – “RH” – “vendedor”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_34.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_35.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     Aba Comissões:\
@@ -39,12 +36,20 @@ Tem o objetivo de definir as comissões que serão pagas para o vendedor nas ope
     7 – Campo “Venda” – limite de desconto que o vendedor pode oferecer nas vendas de Mercadoria e Serviços diretamente, ou seja, que não tenha origem em O.S.;\
     8 – Campo “Fornecedor” – Indicar o fornecedor que utiliza para registro dos valores a serem pagos de comissões, que pode ser o funcionário ou a empresa para quem ele trabalha;\
     9 – Campo “Operação” – a operação de despesas utilizada no registro;\
-    10 – Campo “Centro de Custos” – o centro de custo que está lotado o vendedor; !\[Screenshot]\(../../img/sep/400/Screenshot\_36.png) Aba Contatos:\
-    11 – Campos autoexplicativos; !\[Screenshot]\(../../img/sep/400/Screenshot\_37.png) Aba Funcionário/Gerência\
-    12 – Campo “Funcionário” - vincular o vendedor ao funcionário e usuário do sistema para que traga como padrão nas Cotações de Venda ou Locação;\
-    13 – Campo “Gerente”- a indicar se ele é o gerente de Vendas;
+    10 – Campo “Centro de Custos” – o centro de custo que está lotado o vendedor;&#x20;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_38.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Aba Contatos:\
+11 – Campos autoexplicativos
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Aba Funcionário/Gerência\
+12 – Campo “Funcionário” - vincular o vendedor ao funcionário e usuário do sistema para que traga como padrão nas Cotações de Venda ou Locação;\
+13 – Campo “Gerente”- a indicar se ele é o gerente de Vendas;
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -54,19 +59,21 @@ Tem o objetivo de definir as comissões que serão pagas para o vendedor nas ope
 
     Ir Em “cadastro” – “rh” – “vendedor”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_39.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecio O Vendedor Que Deseja Fazer Correção.\
     2 - Clique No Icone “lapis”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_40.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija O Que Deseja.\
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_41.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -76,15 +83,17 @@ Tem o objetivo de definir as comissões que serão pagas para o vendedor nas ope
 
     Ir Em “cadastro” – “rh” – “vendedor”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_42.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Vendor Que Deseja Remover.\
     2 - Clique No Icone “lixeira”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_43.png)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_44.png)
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

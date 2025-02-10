@@ -12,13 +12,13 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar no botão “Folha em Branco” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -42,7 +42,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     9 – Campo “Funcionário Ativo” – será colocado como verdadeiro automaticamente na abertura do item;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Edição:
 
@@ -50,13 +50,13 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar no botão “Lápis” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -64,7 +64,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     2 – Gravar;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Exclusão:
 
@@ -74,7 +74,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -82,8 +82,8 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     2 – Clique no botão “Lixeira”;
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 – Clique no botão “Gravar”.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

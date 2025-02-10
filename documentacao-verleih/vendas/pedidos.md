@@ -1,10 +1,5 @@
 # Pedidos
 
-\
-
-
-##
-
 ***
 
 ## Como Dar Baixa De Estoque De Pedido De Venda

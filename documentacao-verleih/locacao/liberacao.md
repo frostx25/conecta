@@ -8,7 +8,7 @@ Passo 1:
 
 Locação - Liberação de equipamento.
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 

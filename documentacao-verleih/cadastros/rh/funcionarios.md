@@ -12,7 +12,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Ir Em “Cadastro” – “RH” – “Funcionários”
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 

@@ -104,7 +104,7 @@ Passo 3:
 1 - Coloque o motivo do cancelamento e de ok.\
 (OBS o motivo tem que ter mais que 15 caracteres).
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -114,7 +114,7 @@ Passo 1:
 
 “Notas Fiscais” – “Notas Fiscais - Venda”.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -122,26 +122,26 @@ Passo 2:
 2 - Clicar no ícone “Menu”.\
 3 - Baixa de estoque.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Sim.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - O sistema já traz a nota selecionada mas pode da baixa em mais notas de uma vez, para isso selecionar.\
 2 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -151,14 +151,14 @@ Passo 1:
 
 “Notas Fiscais” – “Notas Fiscais - Venda”.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique na nota que deseja enviar por e-mail.\
 2 - Clicar no ícone “Enviar e-mail”.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 

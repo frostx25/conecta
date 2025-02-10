@@ -1,10 +1,5 @@
 # Forma De Pagamento
 
-\
-
-
-##
-
 ***
 
 Cadastro de “Forma De Pagamento”?\
@@ -16,12 +11,14 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de pagamento”;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_75.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_76.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Defina o campo “Código” de forma abreviada, más que facilite a identificação no seu uso;
@@ -34,7 +31,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     5 – Clique no botão “Gravar” para finalizar o processo.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_77.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Editar
 
@@ -42,21 +39,23 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de Pagamento”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_78.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Seleciona a “Forma de Pagamento” que deseja fazer correção.
 
     2 - Clicar no botão “Lápis” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_79.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija o campo desejado
 
     2 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_80.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Remover
 
@@ -64,16 +63,18 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de pagamento”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_81.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Seleciona a “Forma de Pagamento” que deseja excluir.
 
-    2 - Clique no botão “Lixeira”.
+    2 - Clique no botão “Lixeira”
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_82.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_83.png)
+<figure><img src="../../../.gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure>

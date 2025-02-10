@@ -92,19 +92,19 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar na nota que deseja imprimir.
 
 1 - Clique na impressora.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Escolha o layout e de ok.
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -114,21 +114,21 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar na nota que deseja cancelar.
 
 1 - Clique na lixeira\
 (OBS: Importante, nota tipo NFE tem prazo para cancelamento).
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Coloque o motivo do cancelamento e de ok.\
 (OBS: o motivo do cancelamento precisar ter no mínimo 15 caracteres).
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -138,13 +138,13 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar no ícone da folhinha branca “Novo/incluir registro”
 
 1 - NF Remessa.
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3: Preencher o cabeçalho da NF.
 

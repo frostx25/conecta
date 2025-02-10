@@ -8,13 +8,13 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar no ícone da folhinha branca “Novo/incluir registro”
 
 1 - NF Faturamento.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3: Preencher o cabeçalho da NF.
 
@@ -22,26 +22,26 @@ Passo 3: Preencher o cabeçalho da NF.
 2 - Série O sistema já traz a série padrão. (caso queira alterar só clicar na luneta e pegar a serie desejada).\
 3 - Cliente só clicar na luneta e pegar o cliente que deseja emitir a Fatura. (OBS pode emitir para todos os clientes de uma vez se for este o caso clica todos).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Selecione o contrato que deseja fazer a fatura. (OBS tem a opção de fazer uma única nota com vários contratos, notas para cada contrato ou notas por obra para isso só selecionar “EMITIR NF POR”).\
 2 - Clique em Emitir.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Conferir os dados, se tiver tudo certo da ok.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 6: Incluir produto
 
 1 - Conferir todas as informações, se estiver tudo cetro só gravar a NF.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -51,38 +51,38 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar na nota que deseja envia o e-mail.
 
 1 Selecione a nota que deseja enviar.\
 (OBS: Importante, nota tipo NFE tem prazo para cancelamento).
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 Só colocar (SIM).
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 Colocar sim para enviar boleto.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 Escolher o layout e da OK.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 6:
 
 1 Selecione a opção para o setor que vai enviar, pode ser NFE ou Obra, e de OK.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -92,19 +92,19 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar na nota que deseja imprimir.
 
 1 - Clique na impressora.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Escolha o layout e de ok.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -114,21 +114,21 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar na nota que deseja cancelar.
 
 1 - Clique na lixeira\
 (OBS: Importante, nota tipo NFE tem prazo para cancelamento).
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Coloque o motivo do cancelamento e de ok.\
 (OBS: o motivo do cancelamento precisar ter no mínimo 15 caracteres).
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -138,13 +138,13 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar no ícone da folhinha branca “Novo/incluir registro”
 
 1 - NF Remessa.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3: Preencher o cabeçalho da NF.
 
@@ -152,26 +152,26 @@ Passo 3: Preencher o cabeçalho da NF.
 2 - Série O sistema já traz a série padrão. (caso queira alterar só clicar na luneta e pegar a serie desejada).\
 3 - Cliente só clicar na luneta e pegar o cliente que deseja emitir a NF de Remessa. (OBS pode emitir para todos os clientes de uma vez se for este o caso clica todos).
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Selecione o contrato que deseja fazer a NF de Remessa.\
 2 - Clique em Emitir.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Conferir os dados, se tiver tudo certo da ok.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 6: Incluir produto
 
 1 - Conferir todas as informações, se estiver tudo certo só gravar a NF.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -181,13 +181,13 @@ Passo 1:
 
 “Notas Fiscais” – “NF Locação”.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2: Clicar no ícone da folhinha branca “Novo/incluir registro”
 
 1 - NF Retorno.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3: Preencher o cabeçalho da NF.
 
@@ -195,7 +195,7 @@ Passo 3: Preencher o cabeçalho da NF.
 2 - Série O sistema já traz a série padrão. (caso queira alterar só clicar na luneta e pegar a serie desejada).\
 3 - Cliente só clicar na luneta e pegar o cliente que deseja emitir a NF de Remessa. (OBS pode emitir para todos os clientes de uma vez se for este o caso clica todos).
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 

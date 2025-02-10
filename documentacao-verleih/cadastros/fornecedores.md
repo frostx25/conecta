@@ -1,10 +1,5 @@
 # Fornecedores
 
-\
-
-
-##
-
 ***
 
 ## Como Incluir Fornecedores

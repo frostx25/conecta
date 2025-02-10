@@ -1,9 +1,6 @@
 # Departamento
 
-\
-
-
-## Cadastro Departamento
+_**Cadastro Departamento**_
 
 Departamento representas os setores da empresa de forma genérica, tais como: Administrativo, Financeiro, Operacional.
 
@@ -19,19 +16,20 @@ Objetiva a indicação do setor da empresa em que trabalha cada funcionário
 
     Ir em “Cadastro” – “RH” – “Departamento”;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_10.png)
-*   Passo 2:
+<figure><img src="../../../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
 
-    1 - Clique no botão “Folhinha Branca” para iniciar o processo;
+* Passo 2:
+* 1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_11.png)
+<figure><img src="../../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Campo “Código” – defina de forma abreviada o nome para representar o item a incluir;
 
     2 – No campo “Descrição” – defina de forma mais detalhada a identificação do departamento que quer incluir;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_12.png)
+<figure><img src="../../../.gitbook/assets/image (558).png" alt=""><figcaption></figcaption></figure>
 
 ### Editar
 
@@ -41,19 +39,21 @@ Objetiva a indicação do setor da empresa em que trabalha cada funcionário
 
     2 – Escolha o item que deseja editar;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_13.png)
+<figure><img src="../../../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Lápis” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_14.png)
+<figure><img src="../../../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija os campos que deseja alterar.
 
     2 – Gravar;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_15.png)
+<figure><img src="../../../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -63,15 +63,16 @@ Objetiva a indicação do setor da empresa em que trabalha cada funcionário
 
     1 - Ir Em “Cadastro” – “RH” – “Departamento”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_16.png)
+<figure><img src="../../../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 – Escolha o item que deseja remover;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_17.png)
+<figure><img src="../../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
 
-    2 – Clique no botão “Lixeira”;
+2 – Clique no botão “Lixeira”;
 
-    3 – Clique no botão “Gravar”.
+3 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_18.png)
+<figure><img src="../../../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>

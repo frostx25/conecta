@@ -8,21 +8,21 @@ Passo 1:
 
 Ir em “Locação” - “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja incluir itens.\
 2 - Clique no botão lápis (edição).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Clique na aba equipamentos.\
 2 - Clique no botão com ícone da folha branca “incluir registro”.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -37,13 +37,13 @@ Passo 4:
 9 - Periodicidade: A que você usar normalmente ou a que você negociou com o cliente.\
 10 - Gravar item.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -53,7 +53,7 @@ Atenção: Mesmo passo para imprimir todos os relatórios. Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -61,7 +61,7 @@ Passo 2:
 2 - Clique no botão impressora.\
 3 - Clique imprimir relatórios.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -78,7 +78,7 @@ Relatório 7 (contrato analítico): Tem como objetivo, mostrar todas as informa�
 Relatório 8 (movimentação de equipamento em contrato): Tem como objetivo, mostrar todas as movimentações feitas nos itens, como por exp. Trocas e devoluções mantendo agrupado esta movimentação.\
 Relatório 9 (movimentação de faturamento em contrato): Tem como objetivo, mostrar todas as movimentações feitas nos itens, como por exp. Trocas e devoluções mantendo agrupado esta movimentação.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,19 +88,19 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja faturar. 2 - Clique no botão Verde com o sifão de real.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Conferir se esta todos os itens, os períodos, valores e etc. Se estiver tudo certo gravar.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -110,20 +110,20 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja faturar.\
 2 - Clique no botão Verde com o sifão de real.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Conferir se esta todos os itens, os períodos, valores e etc... Se estiver tudo certo gravar.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,33 +133,33 @@ Passo 1:
 
 Ir em “Locação” - “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato a ser liberado.\
 2 - Clique no botão laranja.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Selecione o item a ser liberado no quadradinho em branco (vazio).
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Escolha o patrimônio que vai para a obra\
 2 - Confirme
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Se já escolheu todos que vão para obra clique em gravar.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -169,19 +169,19 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja emitir a NF. 2 - Clique no botão NF- NF Remessa.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Selecione o contrato que deseja emitir NF. 2 - Clique e emitir NF.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -191,14 +191,14 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja editar.\
 2 - Clique no botão lápis (edição).
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -207,7 +207,7 @@ Passo 3:
 3 - Se for outra informação clique na aba desejada e altere.\
 4 - Se já corrigiu tudo clique em gravar
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -217,7 +217,7 @@ Passo 1:
 
 1 - Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -225,7 +225,7 @@ Passo 2:
 2 - Clique no botão assinatura.\
 3 - Assinar contrato.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -234,7 +234,7 @@ Passo 3:
 OBS. É possível editar e corrigir alguma informação, há como excluir algum contato se for o caso.\
 3 - Se está tudo correto clicar em enviar.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -244,7 +244,7 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -252,26 +252,26 @@ Passo 2:
 2 - Clique no botão folha emissão de NF.\
 3 - Escolha a opção NF Faturamento.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Selecione o contrato que deseja emitir a NF. (OBS a nota pode ser feita por contrato ou por endereços juntando todos os contratos).\
 2 - Clique em emitir NF.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Conferir os dados, se estiver correto clique em ok
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Conferir os dados, se estiver correto, gravar.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -281,14 +281,14 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no contrato que deseja criar a ficha.\
 2 - Clique no botão incluir ficha, (Incluir ficha por contrato ou obra).
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -300,7 +300,7 @@ Todos: Traz todos os equipamentos locados do cliente que ainda não tem ficha ab
 2 - Selecione a opção desejada e busque.\
 3 - Carregar equipamentos
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -309,13 +309,13 @@ Passo 4:
 3 - Quantidade de equipamentos.\
 4 - Se estiver tudo certo (gravar)
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Para imprimir a ficha da devolução ou da troca clique na impressora.
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 6:
 

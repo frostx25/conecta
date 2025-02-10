@@ -1,10 +1,5 @@
 # Peridiocidade
 
-\
-
-
-##
-
 ***
 
 Cadastro de “Periodicidade” Tem como função definir a data de emissão da valorização dos contratos de locação, identificando cada equipamento ou linha (para os quantitativos) que terão a primeira ou nova cobrança.\
@@ -21,21 +16,23 @@ São quatro os tipos de Periodicidades:\
 
     Ir em “Cadastro” – “Faturamento” – “Periodicidade
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_10.png)
+<figure><img src="../../../.gitbook/assets/image (577).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_11.png)
+<figure><img src="../../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Defina o campo “Código” de forma abreviada, más que facilite a identificação no seu uso;\
     2 – No campo “Descrição” descreva de forma clara como será liquidada as duplicatas / títulos;\
     3 - Selecione no campo “Periodicidade” o tipo que está cadastrando entre: Dias Fixos, Antecipado, Postergado ou Dias Corridos;\
-    {==Obs.: Quando quiser indicar o último dia do mês coloque o número “31” que o sistema reconhecerá como sendo o último dia, seja o mês de 31, 30, 29 ou 28.==}\
+    <mark style="color:blue;">Obs.: Quando quiser indicar o último dia do mês coloque o número “31” que o sistema reconhecerá como sendo o último dia, seja o mês de 31, 30, 29 ou 28.</mark>\
     4 – No campo “Observação” pode colocar as principais características de cada uma das periodicidades ou qualquer outra informação.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_12.png)
+<figure><img src="../../../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure>
 
 ## Editar
 
@@ -43,7 +40,8 @@ São quatro os tipos de Periodicidades:\
 
     Ir em “Cadastro” – “Faturamento” – “Periodicidade”.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_7.png)
+<figure><img src="../../../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Seleciona a “Periodicidade” que deseja fazer correção.\
@@ -51,14 +49,15 @@ São quatro os tipos de Periodicidades:\
 *   Passo 3:
 
     1 – Altere os campos desejados;\
-    {==Obs.: Não é permitido trocar de tipo de “Periodicidade”.==}
+    Obs.: Não é permitido trocar de tipo de “Periodicidade”.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_8.png)
+<figure><img src="../../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_9.png)
+<figure><img src="../../../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
 
 ## Excluir
 
@@ -66,10 +65,11 @@ São quatro os tipos de Periodicidades:\
 
     Ir em “Cadastro” – “Faturamento” – “Periodicidade”.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_13.png)
+<figure><img src="../../../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Seleciona a “Periodicidade” que deseja excluir.\
     2 - Clique no botão “Lixeira”.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_14.png)
+<figure><img src="../../../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>

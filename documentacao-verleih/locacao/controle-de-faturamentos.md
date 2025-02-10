@@ -1,10 +1,5 @@
 # Controle de Faturamentos
 
-\
-
-
-##
-
 ***
 
 ## Emissão De NF Por Controle De Faturamento

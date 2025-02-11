@@ -1,24 +1,21 @@
 # Preço De Produtos
 
-\
-
-
-##
-
 ***
 
 ## Inclusão De Produtos
 
 *   Passo 1:
 
-    Ir Em “cadastro” – “produtos E Serviços” – “produtos”
+    Ir Em “cadastro” – “produtos E Serviços” – “produtos”.
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_65.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar Em “incluir Novo Registro Folhinha Branca”
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_66.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Código Do Grupo.\
@@ -41,7 +38,8 @@
     18 - Lubrificante, Se For Marcar E Colocar O Código Do Anp, Senão Deixar Desmarcado.\
     19 - Gerar Pedido, Se For Para Um Fornecedor Específico Marcar E Colocar O Fornecedor, Senão For Deixar Desmarcado.
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_67.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4
 
     1 - Clique Em “impostos”.\
@@ -52,7 +50,8 @@
     6 - Motivo Da Desoneração.\
     7 - Alíquotas De Icms, Iva, Redução E Fcp, Caso Não Tenha Colocar (0)
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_68.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5
 
     1 - Clique Em “ipi”\
@@ -63,31 +62,35 @@
     6 - Alíquota.\
     7 - Redução.
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_69.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 6
 
     1 - Clique Em “pis/confins”\
     2 - Coloque Os Cst De Entradas E De Saídas
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_70.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 7:
 
     1 - Clique Em “outros”.
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_71.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 8:
 
     1 - Clique Em “aplicação”\
     2 - Coloque A Obs Caso Tenha.
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_72.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 9:
 
     1 - Clique Em “foto”\
     2 - Coloque Foto Caso Tenha Clicado Na Pastinha Amarela.\
     3 - Gravar
 
-    !\[screenshot]\(../../img/sep/400/Screenshot\_73.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -97,20 +100,22 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “produtos”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_74.png)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Produto Que Deseja Fazer Correção.\
     2 - Clicar No “iapis”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_75.png)
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione A Aba Onde Deseja Fazer Correção\
     2 - Corrija.\
     3 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_76.png)
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -120,42 +125,47 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “produtos”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_77.png)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Produto Que Deseja Remover.\
     2 - Clicar Na “iixeira”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_78.png)
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_79.png)
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Ediçâo De Produtos Em Lote
 
-* {== (Obs Importante, Tem Que Fazer Um Filtro Muito Bem Feito Do Que Deseja Editar Em Lote, Senão Vai Alterar Todo Seu Cadastro).==}
+&#x20;<mark style="color:blue;">(Obs Importante, Tem Que Fazer Um Filtro Muito Bem Feito Do Que Deseja Editar Em Lote, Senão Vai Alterar Todo Seu Cadastro).</mark>
+
 *   Passo 1:
 
-    Ir Em “cadastro” – “produtos E Serviços” – “produtos”
+    Ir Em “cadastro” – “produtos E Serviços” – “produtos”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_80.png)
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Faça O Filtro Do Que Deseja Editar.\
     2 - Clicar
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_81.png)
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione O Que Deseja Editar.\
     2 - Coloque No Campo Para O Que Quer Colocar.\
     3 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_82.png)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -165,19 +175,22 @@
 
     Ir em “Cadastro” – “Produtos e serviços” – “Produtos”
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_16.png)
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - selecione o produto que deseja criar tabela de preço.\
     2 - Clicar no “Menu”\
     3 - Abrir cadastro de tabela de preço.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_17.png)
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique em “incluir registro na folhinha branca”
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_18.png)
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Coloque o Valor de compra.\
@@ -185,7 +198,7 @@
     3 - Condição de pagamento.\
     4 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_19.png)
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -195,26 +208,29 @@
 
     Ir em “Cadastro” – “Produtos e serviços” – “Produtos”
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_20.png)
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - selecione o produto que deseja corrigir tabela de preço.\
     2 - Clicar no “Menu”\
     3 - Abrir cadastro de tabela de preço.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_21.png)
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Selecione o preço que deseja fazer correção.\
     2 - Clique no “Lápis”
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_22.png)
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Corrija e o que deseja.\
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/300/Screenshot\_23.png)
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -222,7 +238,9 @@
 
 Passo 1:
 
-Ir em “Cadastro” – “Produtos e serviços” – “Produtos”
+Ir em “Cadastro” – “Produtos e serviços” – “Produtos”.
+
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -230,14 +248,20 @@ Passo 2:
 2 - Clicar no “Menu”\
 3 - Abrir cadastro de tabela de preço.
 
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
 Passo 3:
 
 1 - Selecione o preço que deseja remover.\
-2 - Clique na “lixeira”
+2 - Clique na “lixeira”.
+
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Gravar.
+
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -247,19 +271,22 @@ Passo 4:
 
     Ir Em “Cadastro” – “Produtos E Serviços” – “Grupo De Produtos E Serviços”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_84.png)
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
-    1 - Clicar No “incluir Registro Na Folhinha Branca”
+    1 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_85.png)
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Código Do Grupo.\
     2 - Descrição Do Grupo.\
     3 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_86.png)
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Coloque O Valor De Compra.\
@@ -267,7 +294,7 @@ Passo 4:
     3 - Condição De Pagamento.\
     4 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_87.png)
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -277,19 +304,22 @@ Passo 4:
 
     Ir Em “cadastro” – “produtos E Serviços” – “grupo De Produto E Serviços”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_88.png)
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Grupo Que Deseja Fazer Correção.\
     2 - Clicar No “iapis”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_89.png)
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija O Que Deseja.\
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_90.png)
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Coloque O Valor De Compra.\
@@ -297,7 +327,7 @@ Passo 4:
     3 - Condição De Pagamento.\
     4 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_91.png)
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -307,18 +337,21 @@ Passo 4:
 
     Ir Em “cadastro” – “produtos E Serviços” – “grupo De Produto E Serviços”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_92.png)
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Grupo Que Deseja Remover.\
     2 - Clicar Na “iixeira”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_93.png)
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_94.png)
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Coloque O Valor De Compra.\
@@ -326,4 +359,4 @@ Passo 4:
     3 - Condição De Pagamento.\
     4 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_95.png)
+<figure><img src="../../../.gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>

@@ -7,7 +7,7 @@ description: >-
 
 # Reiniciar atendimento
 
-<figure><img src="../../.gitbook/assets/image (40) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Na tela de atendimentos, selecione o contato que deseja reiniciar o atendimento. Isso pode incluir:
 

@@ -19,13 +19,13 @@ Temos 03 tipos de “unidades”:\
 
     Ir em “Cadastro” – “Operacionais” – “Unidades”.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -44,7 +44,7 @@ Temos 03 tipos de “unidades”:\
 
     1 – Preenchido todos os campos clicar no botão “Gravar”;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -54,7 +54,7 @@ Temos 03 tipos de “unidades”:\
 
     Ir em “Cadastro” – “Operacionais” – “Unidades”.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -62,7 +62,7 @@ Temos 03 tipos de “unidades”:\
 
     2 - Clique no botão “Lápis” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 – Escolha o dado a alterar, lembrando que deve consultar a legislação quando utilizado para emissão de notas fiscais.
 
@@ -70,7 +70,7 @@ Temos 03 tipos de “unidades”:\
 
     1 – Selecione o botão “Gravar”.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -80,7 +80,7 @@ Temos 03 tipos de “unidades”:\
 
     1 - Ir em “Cadastro” – “Operacionais” – “Unidades”;
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -88,7 +88,7 @@ Temos 03 tipos de “unidades”:\
 
     2 – Clique no botão “Lixeira”;
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 – Clique no botão “Gravar”.
 

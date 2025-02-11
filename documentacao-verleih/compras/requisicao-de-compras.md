@@ -4,11 +4,6 @@ icon: cart-plus
 
 # Requisição de compras
 
-\
-
-
-##
-
 ***
 
 ## Inclusão De Requisição De Compras De Produtos E Serviços

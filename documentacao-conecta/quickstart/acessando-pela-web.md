@@ -13,7 +13,7 @@ Sempre que você acessar sua conta, um **código de validação** será enviado 
 
 Disponível para todos os usuário cadastrados na plataforma, com um número que tenha whatsapp e/ou e-mail.
 
-Cadastre os domínios @dosistemas.com na whitelist de seu servidor de email para que não tenha problema para receber nosso código por email.
+Cadastre os domínios @dosistemas.com e @dosistemas.com.br na whitelist de seu servidor de email para que não tenha problema para receber nosso código por email.
 
 Sempre acessar usando como navegador Google Chrome.
 {% endhint %}

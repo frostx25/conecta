@@ -4,4 +4,4 @@ icon: mobile-retro
 
 # Acessando pelo app
 
-EM BREVE !
+Aplicativo enviado para testes e aguardando aprovação para publicação na AppStore (iPhone) e Playstore (Android).

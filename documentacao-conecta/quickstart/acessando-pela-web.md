@@ -18,7 +18,7 @@ Cadastre os domínios @dosistemas.com e @dosistemas.com.br na whitelist de seu s
 Sempre acessar usando como navegador Google Chrome.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tela conecta (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passo 1**: Acesse o site [https://conecta.dosistemas.com.br/](https://conecta.dosistemas.com.br/) e clique no botão entrar para ser direcionado a tela de login
 

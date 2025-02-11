@@ -22,5 +22,3 @@ Temos alguns tipos de notas:\
 *   Passo 1:
 
     Ir em “Cadastro” – “Fiscais” – “Bases Legais”.
-
-    !\[Screenshot]\(../../img/sep/1300/Screenshot\_2.png)

@@ -1,8 +1,5 @@
 # Depósito
 
-\
-
-
 ## Cadastro de Depósitos
 
 Criado para quem tem mais de um espaço físico de armazenamento dos equipamentos, podendo ou não ser no mesmo endereço, fazendo com que a Entrega, Retirada e contagem dos equipamentos possam ser feitas por cada armazenamento.
@@ -15,12 +12,14 @@ Criado para quem tem mais de um espaço físico de armazenamento dos equipamento
 
     Ir em “Cadastro” – “Operacionais” – “Depósitos”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_19.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_20.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Campo “Código” – defina de forma abreviada o nome para o depósito;
@@ -35,7 +34,7 @@ Criado para quem tem mais de um espaço físico de armazenamento dos equipamento
 
     6 – Gravar.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_21.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -45,21 +44,23 @@ Criado para quem tem mais de um espaço físico de armazenamento dos equipamento
 
     1 - Ir em “Cadastro” – “Operacionais” – “Depósitos”;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_19.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-    2 – Escolha o item que deseja editar;
+2 – Escolha o item que deseja editar;
+
 *   Passo 2:
 
     1 - Clique no botão “Lápis” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_23.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija os campos que deseja alterar.
 
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_24.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -69,6 +70,8 @@ Passo 1:
 
 1 - Ir em “Cadastro” – “Operacionais” – “Depósitos”;
 
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 
 
 Passo 2:
@@ -77,7 +80,11 @@ Passo 2:
 
 2 – Clique no botão “Lixeira”;
 
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 
 
 3 – Clique no botão “Gravar”.
+
+<figure><img src="../../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 

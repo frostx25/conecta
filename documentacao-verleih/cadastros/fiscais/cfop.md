@@ -13,13 +13,13 @@ No sistema temos alguns dos CFOP’s cadastrados, ficando sob responsabilidade d
 
     Ir em “Cadastro” – “Fiscais” – “CFOP”.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Passo 3:
   1. O campo “Código” definido pela legislação na estrutura: x.xxx com o seguinte significado:
@@ -47,7 +47,7 @@ No sistema temos alguns dos CFOP’s cadastrados, ficando sob responsabilidade d
      2. Campo “Saída” - para os CFOP’s de saída de mercadorias/produtos de números 5 a 7;
   8. Quadro “Contas Contábeis” – restrito a D & O ou integrações com outros sistemas
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,7 +57,7 @@ No sistema temos alguns dos CFOP’s cadastrados, ficando sob responsabilidade d
 
     Ir em “Cadastro” – “Fiscais” – “CFOP”.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -65,7 +65,7 @@ No sistema temos alguns dos CFOP’s cadastrados, ficando sob responsabilidade d
 
     2 - Clique no botão “Lápis” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 – Escolha o dado a alterar, lembrando que deve consultar a legislação.
 
@@ -73,7 +73,7 @@ No sistema temos alguns dos CFOP’s cadastrados, ficando sob responsabilidade d
 
     1 – Selecione o botão “Gravar”.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Como Remover “CFOP”?
 
@@ -83,7 +83,7 @@ A remoção de “CFOP” só é possível se não tiver sido usado.
 
     Ir em “Cadastro” – “Fiscais” – “CFOP”.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -91,7 +91,7 @@ A remoção de “CFOP” só é possível se não tiver sido usado.
 
     2 – Clique no botão “Lixeira”;
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 - Clique no botão “Gravar”.
 

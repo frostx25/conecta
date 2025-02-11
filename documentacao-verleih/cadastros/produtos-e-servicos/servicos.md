@@ -1,10 +1,5 @@
 # Serviços
 
-\
-
-
-##
-
 ***
 
 ## Inclusão De Serviços
@@ -13,12 +8,14 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “serviços”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_54.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique Em “incluir Registro Na Folhinha Branca”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_55.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Coloque O Grupo.\
@@ -28,7 +25,8 @@
     5 - Base Legal, Senão Tem, Deixar Vazio.\
     6 - Operação De Custo, Senão Tem, Deixar Vazio.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_56.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 4:
 
     1 - Pis.\
@@ -37,13 +35,14 @@
     4 - Marcar Se Calcula ISS E Se Tem Alguma Retenção, Senão Tem, Deixar Vazio.\
     5 - O Restante Senão Tem, Manter Igual A Foto.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_57.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 5:
 
     1 - Observação Caso Tenha.\
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_58.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -53,20 +52,22 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “serviços”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_59.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Serviço Que Deseja Fazer Correção.\
     2 - Clique No “lapis”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_60.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Clique Na Aba Que Deseja Corrigir.\
     2 - Corrija.\
     3 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_61.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -74,17 +75,19 @@
 
 *   Passo 1:
 
-    Ir Em “cadastro” – “produtos E Serviços” – “serviços”
+    Ir Em “cadastro” – “produtos E Serviços” – “serviços”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_62.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione O Serviço Que Deseja Remover.\
     2 - Clique Na “lixeira”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_63.png)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_64.png)
+<figure><img src="../../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>

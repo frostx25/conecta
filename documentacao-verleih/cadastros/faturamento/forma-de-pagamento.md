@@ -11,13 +11,13 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de pagamento”;
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -31,7 +31,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     5 – Clique no botão “Gravar” para finalizar o processo.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Editar
 
@@ -39,7 +39,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de Pagamento”.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -47,7 +47,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     2 - Clicar no botão “Lápis” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -55,7 +55,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     2 – Clique no botão “Gravar”.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Remover
 
@@ -63,7 +63,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     Ir em “Cadastro” – “Faturamento” – “Forma de pagamento”.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -71,7 +71,7 @@ A forma de pagamento é utilizada para envio de dados na emissão da Nota Fiscal
 
     2 - Clique no botão “Lixeira”
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 

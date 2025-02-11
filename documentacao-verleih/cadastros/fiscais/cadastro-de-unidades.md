@@ -1,10 +1,5 @@
 # Cadastro de “Unidades”
 
-\
-
-
-##
-
 Este cadastro é utilizado em várias telas do sistema, como por exemplo, Cadastro de Produtos, Notas Fiscais, Contratos de Locação e outras para definir a medida a ser utilizada.\
 Temos 03 tipos de “unidades”:\
 \
@@ -24,12 +19,14 @@ Temos 03 tipos de “unidades”:\
 
     Ir em “Cadastro” – “Operacionais” – “Unidades”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_45.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_46.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Defina o campo “Código”, para as unidades de medida a serem utilizadas em produtos e equipamentos que terão emissão de notas fiscais eletrônicas ou EFD – Escrituração Fiscal Digital, escolha os códigos oficiais definidos por lei para este fim; para as demais unidades a forma reduzida para identificá-la;
@@ -47,7 +44,7 @@ Temos 03 tipos de “unidades”:\
 
     1 – Preenchido todos os campos clicar no botão “Gravar”;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_47.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,21 +54,23 @@ Temos 03 tipos de “unidades”:\
 
     Ir em “Cadastro” – “Operacionais” – “Unidades”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_48.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione a “Unidade” que deseja fazer alterações;
 
     2 - Clique no botão “Lápis” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_49.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-    3 – Escolha o dado a alterar, lembrando que deve consultar a legislação quando utilizado para emissão de notas fiscais.
+3 – Escolha o dado a alterar, lembrando que deve consultar a legislação quando utilizado para emissão de notas fiscais.
+
 *   Passo 3:
 
     1 – Selecione o botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_50.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -81,13 +80,16 @@ Temos 03 tipos de “unidades”:\
 
     1 - Ir em “Cadastro” – “Operacionais” – “Unidades”;
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_51.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 – Escolha o item que deseja remover;
 
     2 – Clique no botão “Lixeira”;
 
-    3 – Clique no botão “Gravar”.
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_52.png) !\[Screenshot]\(../../img/sep/400/Screenshot\_53.png)
+3 – Clique no botão “Gravar”.
+
+<figure><img src="../../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>

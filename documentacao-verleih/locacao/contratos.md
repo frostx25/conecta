@@ -15,14 +15,14 @@ Passo 2:
 1 - Clique no contrato que deseja incluir itens.\
 2 - Clique no botão lápis (edição).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Clique na aba equipamentos.\
 2 - Clique no botão com ícone da folha branca “incluir registro”.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -37,13 +37,13 @@ Passo 4:
 9 - Periodicidade: A que você usar normalmente ou a que você negociou com o cliente.\
 10 - Gravar item.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -53,7 +53,7 @@ Atenção: Mesmo passo para imprimir todos os relatórios. Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -61,7 +61,7 @@ Passo 2:
 2 - Clique no botão impressora.\
 3 - Clique imprimir relatórios.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -78,7 +78,7 @@ Relatório 7 (contrato analítico): Tem como objetivo, mostrar todas as informa�
 Relatório 8 (movimentação de equipamento em contrato): Tem como objetivo, mostrar todas as movimentações feitas nos itens, como por exp. Trocas e devoluções mantendo agrupado esta movimentação.\
 Relatório 9 (movimentação de faturamento em contrato): Tem como objetivo, mostrar todas as movimentações feitas nos itens, como por exp. Trocas e devoluções mantendo agrupado esta movimentação.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,7 +88,7 @@ Passo 1:
 
 Ir em “Locação” – “Controle de contrato”.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 

@@ -1,10 +1,5 @@
 # Análise de Consumo
 
-\
-
-
-##
-
 ***
 
 ## Como Analisar Compras De Produtos

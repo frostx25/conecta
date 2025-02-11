@@ -1,20 +1,19 @@
 # Operações
 
-\
-
-
-##
-
-***
-
 ## Como Incluir Operaçôes Para Liquidação Contas A Receber (Entrada De Valores Na Conta).
 
 *   Passo 1:
 
-    Ir Em “cadastro” – “operacionais” – “operações”. !\[Screenshot]\(../../img/sep/400/Screenshot\_96.png)
+    Ir Em “cadastro” – “operacionais” – “operações”.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
-    1 - Clique No Icone Folhinha Branca Incuir Registro. !\[Screenshot]\(../../img/sep/400/Screenshot\_97.png)
+    1 - Clique No Icone Folhinha Branca Incuir Registro.
+
+<figure><img src="../../../.gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Coloque O Codigo De Acordo Com O Seu Padrão.\
@@ -27,8 +26,9 @@
     6 - Operaçao De Contra Partida So Marcar Se For Para Transferencias.\
     7 - Operação De Venda Ecf Não Precisa\
     8 - Observação Caso Tenha, Senão Deixa Vazio.\
-    9 - Gravar.\
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_98.png)
+    9 - Gravar.
+
+<figure><img src="../../../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,11 +36,15 @@
 
 *   Passo 1:
 
-    Ir em “Cadastro” – “operacionais” – “operações”. !\[Screenshot]\(../../img/sep/500/Screenshot\_1.png)
+    Ir em “Cadastro” – “operacionais” – “operações”.
+
+<figure><img src="../../../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clique no icone folhinha branca incuir registro.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -53,7 +57,10 @@ Passo 3:
 7 - Contas contabeis não precisa.\
 8 - Grupo, se tiver busca senão deixa vazio.\
 9 - Observação caso tenha senão deixa vazio.\
-10 - Gravar.\
+10 - Gravar.
+
+<figure><img src="../../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ***
@@ -62,10 +69,16 @@ Passo 3:
 
 *   Passo 1:
 
-    Ir em “Cadastro” – “operacionais” – “operações”. !\[Screenshot]\(../../img/sep/500/Screenshot\_4.png)
+    Ir em “Cadastro” – “operacionais” – “operações”.
+
+<figure><img src="../../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
-    1 - Clique no icone folhinha branca incuir registro. !\[Screenshot]\(../../img/sep/500/Screenshot\_5.png)
+    1 - Clique no icone folhinha branca incuir registro.
+
+<figure><img src="../../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Coloque o codigo de acordo com o seu padrão.\
@@ -78,8 +91,9 @@ Passo 3:
     6 - Operaçao de contra partida so marcar se for para transferencias.\
     7 - Operação de venda ECF não precisa\
     8 - Observação caso tenha senão deixa vazio.\
-    9 - Gravar.\
-    !\[Screenshot]\(../../img/sep/500/Screenshot\_6.png)
+    9 - Gravar.
+
+<figure><img src="../../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -87,15 +101,23 @@ Passo 3:
 
 *   Passo 1:
 
-    Ir Em “cadastro” – “operacionais” – “operações”. !\[Screenshot]\(../../img/sep/500/Screenshot\_7.png)
+    Ir Em “cadastro” – “operacionais” – “operações”. !\[Screenshot
+
+<figure><img src="../../../.gitbook/assets/image (608).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Operação Que De Seja Fazer Alteração.\
-    2 - Clique No Icone Lapis. !\[Screenshot]\(../../img/sep/500/Screenshot\_8.png)
+    2 - Clique No Icone Lapis.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (609).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija O Que Deseja\
-    2 - Gravar. !\[Screenshot]\(../../img/sep/500/Screenshot\_9.png)
+    2 - Gravar.
+
+<figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -103,13 +125,19 @@ Passo 3:
 
 *   Passo 1:
 
-    Ir Em “cadastro” – “operacionais” – “operações”. !\[Screenshot]\(../../img/sep/500/Screenshot\_10.png)
+    Ir Em “cadastro” – “operacionais” – “operações”.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Operação Que De Seja Remover.\
-    2 - Clique No Icone Lapis. !\[Screenshot]\(../../img/sep/500/Screenshot\_11.png)
+    2 - Clique No Icone Lapis.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (612).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/500/Screenshot\_12.png)
+<figure><img src="../../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>

@@ -1,10 +1,5 @@
 # Cotação
 
-\
-
-
-##
-
 ***
 
 ## Como Incluir Cotação De Compras De Produtos E Serviços

@@ -8,13 +8,13 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “serviços”
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique Em “incluir Registro Na Folhinha Branca”
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -25,7 +25,7 @@
     5 - Base Legal, Senão Tem, Deixar Vazio.\
     6 - Operação De Custo, Senão Tem, Deixar Vazio.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4:
 
@@ -35,14 +35,14 @@
     4 - Marcar Se Calcula ISS E Se Tem Alguma Retenção, Senão Tem, Deixar Vazio.\
     5 - O Restante Senão Tem, Manter Igual A Foto.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 5:
 
     1 - Observação Caso Tenha.\
     2 - Gravar.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -52,14 +52,14 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “serviços”
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Selecione O Serviço Que Deseja Fazer Correção.\
     2 - Clique No “lapis”
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -67,7 +67,7 @@
     2 - Corrija.\
     3 - Gravar.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -77,14 +77,14 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “serviços”.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Selecione O Serviço Que Deseja Remover.\
     2 - Clique Na “lixeira”
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 

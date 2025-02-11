@@ -1,10 +1,5 @@
 # Cadastros Fiscais
 
-\
-
-
-##
-
 Reunido neste bloco os principais cadastros utilizados nas obrigações fiscais para emissão de notas e cálculos de impostos.
 
 ***
@@ -45,7 +40,7 @@ Este cadastro define as alíquotas de ICMS e FCP a serem calculados por substitu
 
 3- No campo SIT ICMS indique a Situação tributária a ser utilizada para a emissão da Nota fiscal.
 
-{==Obs.: Indique sempre o SIT que gera direito a crédito, pois quando a Cotação/Pedidos tiver como destino no cliente Consumo ou Ativo o próprio sistema mudará para o correspondente a não direito a crédito;==}
+<mark style="color:blue;">Obs.: Indique sempre o SIT que gera direito a crédito, pois quando a Cotação/Pedidos tiver como destino no cliente Consumo ou Ativo o próprio sistema mudará para o correspondente a não direito a crédito</mark>
 
 4 – Campo “Dt. Inicial” é a data de início do protocolo entre os Estados: emitente e destino;
 

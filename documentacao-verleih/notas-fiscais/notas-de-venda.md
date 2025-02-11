@@ -14,19 +14,19 @@ Passo 2:
 
 Clicar no ícone da folhinha branca “Novo/incluir registro”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3: Preencher o cabeçalho da NF.
 
 1 Cliente, só clicar luneta e buscar o cliente desejado. 2 Data de emissão deve deixar a data do dia mesmo. 3 Série o sistema traz as séries oficiais caso queira trocar só buscar a desejada. 4 selecione o pedido que deseja fazer a NF. 5 Clique em emitir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
 1 - Conferir todos os dados. Se está tudo certo da OK.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ Passo 5:
 
 1 Conferir os dados, se está tudo certo só gravar. (OBS: Nesta etapa dá para conferir vencimentos e a duplicatas; Caso o pedido contenha produtos e serviço o sistema vai gerar já separado as duas notas).
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ Passo 1:
 
 “Notas Fiscais” – “Notas Fiscais - Venda”.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
@@ -52,13 +52,13 @@ Passo 2:
 2 - Clicar no ícone “Menu”\
 3 - Gerar boleto.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -68,7 +68,7 @@ Passo 1:
 
 “Notas Fiscais” – “Notas Fiscais - Venda”.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 

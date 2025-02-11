@@ -1,10 +1,5 @@
 # Cadastro de “Motivos”
 
-\
-
-
-##
-
 Criado para facilitar e padronizar os históricos de algumas observações do sistema, como cancelamento de notas, contratos, cotações e etc.
 
 ***
@@ -15,12 +10,14 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_10.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_11.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Defina o campo “Código” de forma reduzida para os motivos a serem utilizados em cancelamentos de alguns itens dentro do sistema;
@@ -29,7 +26,7 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     3 – Clique no botão “Gravar” para concluir o processo.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_12.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -39,7 +36,8 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_13.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione o “Unidade” que deseja fazer alterações;
@@ -48,28 +46,30 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     3 – Escolha o dado a alterar, lembrando que deve consultar a legislação quando utilizado para emissão de notas fiscais.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_14.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 – Selecione o botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_12.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Como remover “Motivos”?
 
 *   Passo 1:
 
-    1 - Ir em “Cadastro” – “Operacionais” – “Motivos”;
+    1 - Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_16.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 – Escolha o item que deseja remover;
 
     2 – Clique no botão “Lixeira”;
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_17.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-    3 – Clique no botão “Gravar”.
+3 – Clique no botão “Gravar”.
 
-    !\[Screenshot]\(../../img/sep/200/Screenshot\_18.png)
+<figure><img src="../../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>

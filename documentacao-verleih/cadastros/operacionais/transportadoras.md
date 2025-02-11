@@ -1,10 +1,5 @@
 # Transportadoras
 
-\
-
-
-##
-
 ***
 
 ## Como Incluir Transportadora
@@ -13,12 +8,14 @@
 
     Ir Em “cadastro” – “operacionais” – “transportadora”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_25.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Clicar Em “incluir Novo Registro Folhinha Branca”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_26.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Código.\
@@ -32,7 +29,7 @@
     9 - Observação Caso Tenha, Senão Deixa Vazio.\
     10 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_27.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,19 +39,23 @@
 
     Ir Em “cadastro” – “operacionais” – “transportadora”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_28.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 Selecione A Transportadora Que Deseja Corrigir.\
     2 - Clicar No “lápis”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_29.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Corrija O Que Deseja.\
     2 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_30.png)
+
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -64,15 +65,17 @@
 
     Ir Em “cadastro” – “operacionais” – “transportadora”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_31.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 2:
 
     1 - Selecione A Transportadora Que Deseja Remover.\
     2 - Clicar Na “lixeira”
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_32.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 *   Passo 3:
 
     1 - Gravar.
 
-    !\[Screenshot]\(../../img/sep/400/Screenshot\_33.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

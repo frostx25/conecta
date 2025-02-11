@@ -14,13 +14,13 @@ Tem o objetivo de definir as comissões que serão pagas para o vendedor nas ope
 
     1 - Ir Em “cadastro” – “RH” – “vendedor”.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 

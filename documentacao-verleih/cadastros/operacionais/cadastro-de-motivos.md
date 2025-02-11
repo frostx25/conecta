@@ -10,13 +10,13 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clique no botão “Folhinha Branca” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -26,7 +26,7 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     3 – Clique no botão “Gravar” para concluir o processo.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,7 +36,7 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -46,13 +46,13 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     3 – Escolha o dado a alterar, lembrando que deve consultar a legislação quando utilizado para emissão de notas fiscais.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
     1 – Selecione o botão “Gravar”.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Como remover “Motivos”?
 
@@ -60,7 +60,7 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     1 - Ir em “Cadastro” – “Operacionais” – “Motivos”.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
@@ -68,7 +68,7 @@ Criado para facilitar e padronizar os históricos de algumas observações do si
 
     2 – Clique no botão “Lixeira”;
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 – Clique no botão “Gravar”.
 

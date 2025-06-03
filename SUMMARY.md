@@ -32,6 +32,7 @@
     * [Ver/Alterar dados do contato](documentacao-conecta/publish-your-docs/contato/ver-alterar-dados-do-contato.md)
   * [Carteiras](documentacao-conecta/publish-your-docs/carteiras/README.md)
     * [Alterar ou excluir uma carteira](documentacao-conecta/publish-your-docs/carteiras/alterar-ou-excluir-uma-carteira.md)
+    * [Criar uma nova carteira](documentacao-conecta/publish-your-docs/carteiras/criar-uma-nova-carteira.md)
 
 ***
 

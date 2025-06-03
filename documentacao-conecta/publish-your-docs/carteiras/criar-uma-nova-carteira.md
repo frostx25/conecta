@@ -1,3 +1,7 @@
+---
+icon: message-plus
+---
+
 # Criar uma nova carteira
 
 A funcionalidade de **Carteirização de Contatos** no D\&O Conecta é uma ferramenta essencial para organizar e segmentar seus contatos de forma eficiente. Por meio da criação de carteiras, é possível agrupar contatos com base em critérios específicos, simplificando a gestão e aprimorando o acompanhamento de relacionamentos e atividades comerciais.

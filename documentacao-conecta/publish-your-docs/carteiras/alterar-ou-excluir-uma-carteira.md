@@ -3,6 +3,7 @@ description: >-
   Gerenciar carteiras de contatos no D&O Conecta inclui a capacidade de alterar
   ou excluir carteiras conforme necessário.  Processo é importante para manter a
   organização e garantir que as informações
+icon: arrows-rotate-reverse
 ---
 
 # Alterar ou excluir uma carteira

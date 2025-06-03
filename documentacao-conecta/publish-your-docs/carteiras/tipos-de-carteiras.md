@@ -3,6 +3,7 @@ description: >-
   Com ela, é possível melhorar a gestão de relacionamentos, aumentar a
   eficiência operacional e garantir conformidade e segurança nas comunicações
   por meio da integração com a API oficial do WhatsApp.
+icon: text-height
 ---
 
 # Tipos de carteiras

@@ -1,3 +1,7 @@
+---
+icon: file-plus
+---
+
 # Incluir contato na carteira
 
 A inclusão de contatos em uma carteira na plataforma **D\&O Conecta** é uma maneira eficiente de organizar e gerenciar seus relacionamentos comerciais. Isso permite que você segmente e acompanhe suas interações com contatos específicos de forma estruturada, facilitando a execução de estratégias de comunicação e vendas.

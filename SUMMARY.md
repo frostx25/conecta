@@ -38,6 +38,8 @@
 
 ***
 
+* [🈸 Apps](apps/README.md)
+  * [Campanhas](apps/campanhas.md)
 * [🌐 DOCUMENTAÇÃO VERLEIH](documentacao-verleih/README.md)
   * [Cadastros](documentacao-verleih/cadastros/README.md)
     * [Clientes](documentacao-verleih/cadastros/clientes.md)

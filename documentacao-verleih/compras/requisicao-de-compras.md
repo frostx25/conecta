@@ -12,13 +12,13 @@ Passo 1:
 
 Ir Em “compras” – “requisição”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -26,7 +26,7 @@ Passo 3:
 1 - Funcionário.\
 2 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -39,7 +39,7 @@ Passo 4:
 7 - Finalidade.\
 8 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 

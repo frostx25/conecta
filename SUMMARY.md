@@ -30,6 +30,8 @@
     * [Pesquisar contato](documentacao-conecta/publish-your-docs/contato/pesquisar-contato.md)
     * [Bloquear ou arquivar contato](documentacao-conecta/publish-your-docs/contato/bloquear-ou-arquivar-contato.md)
     * [Ver/Alterar dados do contato](documentacao-conecta/publish-your-docs/contato/ver-alterar-dados-do-contato.md)
+  * [Carteiras](documentacao-conecta/publish-your-docs/carteiras/README.md)
+    * [Alterar ou excluir uma carteira](documentacao-conecta/publish-your-docs/carteiras/alterar-ou-excluir-uma-carteira.md)
 
 ***
 

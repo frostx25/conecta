@@ -18,7 +18,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     1 - Clicar no botão “Folha em Branco” para iniciar o processo;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -42,7 +42,7 @@ Destina-se a identificação dos funcionários que manipulam os equipamentos nas
 
     9 – Campo “Funcionário Ativo” – será colocado como verdadeiro automaticamente na abertura do item;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Edição:
 

@@ -14,7 +14,7 @@
 
     1 - Clicar Em “incluir Novo Registro Folhinha Branca”
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -38,7 +38,7 @@
     18 - Lubrificante, Se For Marcar E Colocar O Código Do Anp, Senão Deixar Desmarcado.\
     19 - Gerar Pedido, Se For Para Um Fornecedor Específico Marcar E Colocar O Fornecedor, Senão For Deixar Desmarcado.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4
 

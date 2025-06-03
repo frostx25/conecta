@@ -39,7 +39,8 @@
 ***
 
 * [🈸 Apps](apps/README.md)
-  * [Campanhas](apps/campanhas.md)
+  * [Campanhas](apps/campanhas/README.md)
+    * [Arquivar campanha](apps/campanhas/arquivar-campanha.md)
 * [🌐 DOCUMENTAÇÃO VERLEIH](documentacao-verleih/README.md)
   * [Cadastros](documentacao-verleih/cadastros/README.md)
     * [Clientes](documentacao-verleih/cadastros/clientes.md)

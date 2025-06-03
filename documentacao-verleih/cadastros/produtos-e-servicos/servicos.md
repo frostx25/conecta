@@ -14,7 +14,7 @@
 
     1 - Clique Em “incluir Registro Na Folhinha Branca”
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -25,7 +25,7 @@
     5 - Base Legal, Senão Tem, Deixar Vazio.\
     6 - Operação De Custo, Senão Tem, Deixar Vazio.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4:
 

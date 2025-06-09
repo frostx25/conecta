@@ -45,6 +45,7 @@
     * [Criar nova campanha](apps/campanhas/criar-nova-campanha.md)
     * [Consultar Campanha](apps/campanhas/consultar-campanha.md)
     * [Exportar campanha](apps/campanhas/exportar-campanha.md)
+    * [Riscos e custos da campanha](apps/campanhas/riscos-e-custos-da-campanha.md)
 * [🌐 DOCUMENTAÇÃO VERLEIH](documentacao-verleih/README.md)
   * [Cadastros](documentacao-verleih/cadastros/README.md)
     * [Clientes](documentacao-verleih/cadastros/clientes.md)

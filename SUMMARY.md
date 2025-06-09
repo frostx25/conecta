@@ -42,6 +42,7 @@
   * [Campanhas](apps/campanhas/README.md)
     * [Arquivar campanha](apps/campanhas/arquivar-campanha.md)
     * [Criar modelo de mensagem para campanha](apps/campanhas/criar-modelo-de-mensagem-para-campanha.md)
+    * [Criar nova campanha](apps/campanhas/criar-nova-campanha.md)
 * [🌐 DOCUMENTAÇÃO VERLEIH](documentacao-verleih/README.md)
   * [Cadastros](documentacao-verleih/cadastros/README.md)
     * [Clientes](documentacao-verleih/cadastros/clientes.md)

@@ -1,3 +1,7 @@
+---
+icon: campground
+---
+
 # Arquivar campanha
 
 **Arquivar campanhas na plataforma D\&O Conecta** é um processo simples e importante para manter a organização e o histórico das atividades de marketing. O arquivamento permite que as campanhas concluídas ou não ativas sejam armazenadas de forma segura, facilitando o acesso futuro para análise e referência. Este guia irá ajudá-lo a entender como **arquivar suas campanhas** de forma eficaz e organizada.

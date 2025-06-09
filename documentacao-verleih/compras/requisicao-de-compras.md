@@ -12,13 +12,13 @@ Passo 1:
 
 Ir Em “compras” – “requisição”.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -26,7 +26,7 @@ Passo 3:
 1 - Funcionário.\
 2 - Clicar No “incluir Registro Na Folhinha Branca”.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 4:
 
@@ -39,7 +39,7 @@ Passo 4:
 7 - Finalidade.\
 8 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 5:
 
@@ -47,7 +47,7 @@ Passo 5:
 2 - Escolha A Opção, Interna Ou Externa.\
 3 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Edição De Requisição De Compras De Produtos E Serviços
 
@@ -55,14 +55,14 @@ Passo 1:
 
 Ir Em “compras” – “requisição”.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Seleciona A Requisição Que Deseja Fazer Correção.\
 1 - Clicar No “lápis”
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
@@ -71,7 +71,7 @@ Passo 3:
 3 - Clicar No “lápis”. Corrija O Que Deseja E Grave.\
 4 - Gravar.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Impessão De Requisição De Compras De Produtos E Serviços
 
@@ -79,21 +79,21 @@ Passo 1:
 
 Ir Em “compras” – “requisição”.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 2:
 
 1 - Seleciona A Requisição Que Deseja Fazer Impressão.\
 2 - Clicar No “impressora”
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Passo 3:
 
 1 - Escolha O Relatório.\
 2 - Clique Na Impressora.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Conversão De Requisição De Compras De Produtos E Serviços
 

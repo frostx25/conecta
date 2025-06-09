@@ -8,13 +8,13 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “produtos”.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Clicar Em “incluir Novo Registro Folhinha Branca”
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 
@@ -38,7 +38,7 @@
     18 - Lubrificante, Se For Marcar E Colocar O Código Do Anp, Senão Deixar Desmarcado.\
     19 - Gerar Pedido, Se For Para Um Fornecedor Específico Marcar E Colocar O Fornecedor, Senão For Deixar Desmarcado.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 4
 
@@ -50,7 +50,7 @@
     6 - Motivo Da Desoneração.\
     7 - Alíquotas De Icms, Iva, Redução E Fcp, Caso Não Tenha Colocar (0)
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 5
 
@@ -62,27 +62,27 @@
     6 - Alíquota.\
     7 - Redução.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 6
 
     1 - Clique Em “pis/confins”\
     2 - Coloque Os Cst De Entradas E De Saídas
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 7:
 
     1 - Clique Em “outros”.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 8:
 
     1 - Clique Em “aplicação”\
     2 - Coloque A Obs Caso Tenha.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 9:
 
@@ -90,7 +90,7 @@
     2 - Coloque Foto Caso Tenha Clicado Na Pastinha Amarela.\
     3 - Gravar
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -100,14 +100,14 @@
 
     Ir Em “cadastro” – “produtos E Serviços” – “produtos”
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 2:
 
     1 - Selecione O Produto Que Deseja Fazer Correção.\
     2 - Clicar No “iapis”
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Passo 3:
 

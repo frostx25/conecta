@@ -44,6 +44,8 @@
       * [Consultar Campanha](documentacoes/documentacao-conecta/apps/campanhas/consultar-campanha.md)
       * [Exportar campanha](documentacoes/documentacao-conecta/apps/campanhas/exportar-campanha.md)
       * [Riscos e custos da campanha](documentacoes/documentacao-conecta/apps/campanhas/riscos-e-custos-da-campanha.md)
+    * [Chatbot](documentacoes/documentacao-conecta/apps/chatbot/README.md)
+      * [Tipos de Chatbot](documentacoes/documentacao-conecta/apps/chatbot/tipos-de-chatbot.md)
 
 ***
 

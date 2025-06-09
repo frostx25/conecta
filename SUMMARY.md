@@ -46,6 +46,7 @@
       * [Riscos e custos da campanha](documentacoes/documentacao-conecta/apps/campanhas/riscos-e-custos-da-campanha.md)
     * [Chatbot](documentacoes/documentacao-conecta/apps/chatbot/README.md)
       * [Tipos de Chatbot](documentacoes/documentacao-conecta/apps/chatbot/tipos-de-chatbot.md)
+      * [Criando um chatbot](documentacoes/documentacao-conecta/apps/chatbot/criando-um-chatbot.md)
 
 ***
 

@@ -14,29 +14,29 @@ Dentro da plataforma **D\&O Conecta**, você pode **criar um chatbot** e disponi
 
 Para gerenciar seus chatbots, acesse o menu **"Apps"** e clique em **"Chatbot"**. Na tela que será exibida, você verá, no lado esquerdo, a **listagem de todos os chatbots cadastrados**, sejam eles **chatbots para atendimento** ou **chatbots para automação**.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **Chatbots para atendimento** são aqueles que você utilizará no dia a dia para responder a seu usuário quando ele enviar uma mensagem para o seu canal de atendimento.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Chatbot de automação** são chatbots que podem ser utilizados em disparados de mensagem em massa, via api ou mesmo dentro de uma conversa já em andamento.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar na aba **"Chatbot para Atendimento"**, na parte superior da tela serão exibidos todos os **canais de atendimento** associados à sua conta, como **números de WhatsApp**, **perfis do Instagram** e **contas do Facebook Messenger**.
 
 Esses canais representam os meios pelos quais o chatbot poderá interagir diretamente com seus clientes.
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicando no link **"Alterar"**, localizado no quadrinho do canal de atendimento, você pode **definir qual chatbot será acionado durante o horário de trabalho** e **qual será utilizado fora do horário de trabalho**.
 
 Além disso, é possível configurar **palavras-chave** clicando no link **"Adicionar mais"**. Esse recurso permite que você defina **termos específicos que disparam um chatbot determinado**. Ele é especialmente útil em casos como **campanhas de anúncios**, em que você deseja acionar um fluxo personalizado quando o cliente entra em contato a partir de um determinado link ou palavra-chave.
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Observação:** Se você utiliza o canal do **WhatsApp via API oficial**, é necessário **associar um chatbot criado especificamente para a API oficial**. Já nos casos em que o canal não é a API oficial do WhatsApp, como **Instagram** ou **Facebook Messenger**, é importante garantir que o **chatbot correspondente** esteja corretamente associado ao respectivo canal.
 
@@ -47,17 +47,17 @@ Na parte inferior da tela, são exibidos **todos os chatbots já criados**. Ao l
 * A informação se o **chatbot está em uso** ou não;
 * Um **conjunto de ações** disponíveis, como **arquivar**, **duplicar**, **editar** ou **alterar as configurações** do chatbot.
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em **"Configurações"**, você pode **alterar o nome do chatbot** e definir ou atualizar a **equipe padrão**, ou seja, o setor responsável por receber as conversas iniciadas por esse chatbot.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Já ao acessar a aba lateral **"Chatbots para Automação"**, as informações exibidas seguem o mesmo padrão da aba de atendimento. A diferença é que aqui há uma **coluna adicional chamada "Disponibilidade"**, que indica **onde o chatbot está sendo utilizado**, como por exemplo: **API, Campanha, Conversa** ou **Sequência**.
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no **ícone de configurações** de um chatbot para automação, é possível ajustar diversas informações importantes:
 
@@ -67,7 +67,7 @@ Ao clicar no **ícone de configurações** de um chatbot para automação, é po
 * **Equipe padrão**, para a qual a conversa será direcionada no início
 * **Equipes autorizadas** a utilizar aquele chatbot
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Observações:** há a opção **"Avançada"** chamada **"Manter em execução após a conclusão do atendimento"**. Ao ativar essa opção, o chatbot continuará respondendo ao contato **mesmo após o encerramento do atendimento**, sem abrir uma nova conversa com a equipe. Essa funcionalidade é útil, por exemplo, para **enviar pesquisas de satisfação** ou mensagens de acompanhamento após o suporte.
 

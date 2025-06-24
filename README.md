@@ -2,7 +2,7 @@
 
 Bem-vindo(a) a base de conhecimento da **D\&O Sistemas**
 
-Aqui você encontrará uma visão geral de todos os recursos e serviços incríveis que o **D\&O Sistemas te** pode oferecer.
+Aqui você encontrará uma visão geral de todos os recursos e serviços incríveis que a **D\&O Sistemas** pode te oferecer.
 
 Você verá nesta documentação informações sobre todas as funcionalidades do Verleih e do **Conecta** e encontrará orientações sobre como usar os recursos necessários em sua empresa.
 
